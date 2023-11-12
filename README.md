@@ -3,16 +3,14 @@ This project uses computer vision to identify and reduce weather-related impacts
 
 ## 1  Project Title
 
-Multi-Weather Classification and Effect Removal on Images
+**Multi-Weather Classification and Effect Removal on Images**
 
 
 ## 2  Names
 
-Yining Wang [yining.wang@yale.edu](yining.wang@yale.edu) 
-
-Andrew Yi [andrew.yi@yale.edu](andrew.yi@yale.edu)
-
-Qiuhao Zhang [qiuhao.zhang@yale.edu](qiuhao.zhang@yale.edu)
+- Yining Wang [yining.wang@yale.edu](yining.wang@yale.edu) 
+- Andrew Yi [andrew.yi@yale.edu](andrew.yi@yale.edu)
+- Qiuhao Zhang [qiuhao.zhang@yale.edu](qiuhao.zhang@yale.edu)
 
 
 ## 3  Problem Statement
@@ -22,25 +20,25 @@ In daily life, we could encounter many different types of weather conditions. Ho
 
 ## 4  General Approach
 
-The general approach to this project can consist of the following steps:
-Collect datasets and preprocess data
-Develop a machine learning classification model to distinguish different weather conditions
-Evaluate the classification model
-Develop a traditional denoising / de-weathering algorithm to serve as a performance baseline
-Develop a machine learning denoising / de-weathering model
-Evaluate and compare the denoising / de-weathering algorithm and models
-Draw Conclusions
+**The general approach to this project can consist of the following steps:**
+1. Collect datasets and preprocess data
+2. Develop a machine learning classification model to distinguish different weather conditions
+3. Evaluate the classification model
+4. Develop a traditional denoising / de-weathering algorithm to serve as a performance baseline
+5. Develop a machine learning denoising / de-weathering model
+6. Evaluate and compare the denoising / de-weathering algorithm and models
+7. Draw Conclusions
 
-The challenges we may face:
-Exploring machine learning / deep learning based approaches
-Unbalanced datasets for the classification model
+**The challenges we may face:**
+1. Exploring machine learning / deep learning based approaches
+2. Unbalanced datasets for the classification model
 
 
 ## 5  Data
 
-We tentatively plan to leverage two datasets for classifying weather conditions and denoising images. The first dataset is the GT-RAIN dataset, which provides pairs of real rainy images and corresponding ground truth images captured shortly after the rain had stopped. It covers a wide range of scenarios, including different types of rain conditions, geographic locations, degrees of illumination, and camera parameters. This large-scale dataset consists of 31,524 pairs of rain and clean frames taken from 101 videos, with 26,124 training pairs, 3,300 validation pairs, and 2,100 testing pairs. 
+We tentatively plan to leverage two datasets for classifying weather conditions and denoising images. The first dataset is the [GT-RAIN](https://visual.ee.ucla.edu/gt_rain.htm/) dataset, which provides pairs of real rainy images and corresponding ground truth images captured shortly after the rain had stopped. It covers a wide range of scenarios, including different types of rain conditions, geographic locations, degrees of illumination, and camera parameters. This large-scale dataset consists of 31,524 pairs of rain and clean frames taken from 101 videos, with 26,124 training pairs, 3,300 validation pairs, and 2,100 testing pairs. 
 
-The second dataset is the A2I2-Haze Dataset, the first real-world dataset for paired haze and haze-free aerial and ground images. A2I2-Haze consists of two subsets, A2I2-UAV and A2I2-UGV. The training set of A2I2-UAV has 224 pairs of hazy and haze-free images, along with an extra 240 haze-free images. The corresponding test set has 119 hazy images. The training set of A2I2-UGV includes 50 pairs of hazy and haze-free images, and an additional 200 haze-free images. The corresponding test set of A2I2-UGV has 200 hazy images.
+The second dataset is the [A2I2-Haze](https://arxiv.org/abs/2206.06427) Dataset, the first real-world dataset for paired haze and haze-free aerial and ground images. A2I2-Haze consists of two subsets, A2I2-UAV and A2I2-UGV. The training set of A2I2-UAV has 224 pairs of hazy and haze-free images, along with an extra 240 haze-free images. The corresponding test set has 119 hazy images. The training set of A2I2-UGV includes 50 pairs of hazy and haze-free images, and an additional 200 haze-free images. The corresponding test set of A2I2-UGV has 200 hazy images.
 
 ## 6  Measure of Success
 
@@ -49,20 +47,21 @@ For the classification part, the level of success can be measured using traditio
 
 ## 7  Milestones and Deliverables
 
-**Tentative milestones:**
-Data collection: collect and organize the datasets
-Data preprocessing:  filter and process raw image data into the desired input format
-Development of weather classification algorithm using machine learning approaches
-Development of de-weathering algorithms for different weather types
-(focusing on rainy and hazy weathers)
-  a: Develop the algorithm using traditional computer vision approaches
-  b: Develop the algorithm using machine learning approaches
-Compare the performance of different approaches
-Integrate the algorithms into a pipeline
-Analyze the result and finalize the project report
+### Tentative Milestones
 
-**Possible deliverables:**
-Weather classification algorithm / model
-De-weathering algorithms / model
-Pipeline that integrate the above two steps
-Final project report
+1. **Data Collection:** Collect and organize the datasets.
+2. **Data Preprocessing:** Filter and process raw image data into the desired input format.
+3. **Development of Weather Classification Algorithm:** Utilize machine learning approaches for weather classification.
+4. **Development of De-weathering Algorithms for Different Weather Types** (focusing on rainy and hazy weathers):
+   - Develop the algorithm using traditional computer vision approaches.
+   - Develop the algorithm using machine learning approaches.
+5. **Compare the Performance of Different Approaches:** Analyze and compare the effectiveness of each method.
+6. **Integration:** Integrate the algorithms into a pipeline.
+7. **Analysis and Finalization:** Analyze the result and finalize the project report.
+
+### Possible Deliverables
+
+1. **Weather Classification Algorithm / Model**
+2. **De-weathering Algorithms / Model**
+3. **Pipeline that integrate the above two steps**
+4. **Final Project Report**
