@@ -9,7 +9,9 @@ Multi-Weather Classification and Effect Removal on Images
 ## 2  Names
 
 Yining Wang [yining.wang@yale.edu](yining.wang@yale.edu) 
+
 Andrew Yi [andrew.yi@yale.edu](andrew.yi@yale.edu)
+
 Qiuhao Zhang [qiuhao.zhang@yale.edu](qiuhao.zhang@yale.edu)
 
 
