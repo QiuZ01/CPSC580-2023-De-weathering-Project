@@ -1,5 +1,6 @@
 # Ignore data folder
 /src/data/
+/src/dl_model/GT-RAIN/checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
