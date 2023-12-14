@@ -29,7 +29,7 @@ params = {
     'save_every': 1,  # save every k epoch
     'train_dir_list': ['../../data/rain/GT-RAIN_train'],  # Dir for the training data
     'val_dir_list': ['../../data/rain/GT-RAIN_val'],  # Dir for the val data
-    'rain_mask_dir': './rain_mask_dir',  # Dir for the rain masks
+    'rain_mask_dir': '../../data/rain/rain_mask_dir',  # Dir for the rain masks
     'img_size': 256,  # the size of image input
     'zoom_min': .06,  # the minimum zoom for RainMix
     'zoom_max': 1.8,  # the maximum zoom for RainMix
@@ -65,7 +65,6 @@ train_loader = DataLoader(
     batch_sampler=CustomBatchSampler(
         train_dataset.get_scene_indices(),
         batch_size=params['batch_size']),
-    num_workers=2,
     pin_memory=True
 )
 
@@ -79,7 +78,6 @@ val_dataset = GTRainDataset(
 val_loader = DataLoader(
     dataset=val_dataset,
     batch_size=params['batch_size'],
-    num_workers=2,
     shuffle=True,
     drop_last=True,
     pin_memory=True)
