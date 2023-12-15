@@ -1,0 +1,2245 @@
+../../data/haze/groundtruth/000_left.png
+PSNR_input:	13.696843830628447
+SSIM_input:	0.6589026
+PSNR_output:	13.252606584397629
+SSIM_output:	0.64645547
+../../data/haze/groundtruth/000_right.png
+PSNR_input:	15.96931459228662
+SSIM_input:	0.6534986
+PSNR_output:	12.79098592792008
+SSIM_output:	0.5782366
+../../data/haze/groundtruth/001_left.png
+PSNR_input:	15.997429745118927
+SSIM_input:	0.6928579
+PSNR_output:	15.243852242454478
+SSIM_output:	0.67554563
+../../data/haze/groundtruth/001_right.png
+PSNR_input:	16.095427290204274
+SSIM_input:	0.8008391
+PSNR_output:	16.839615189473264
+SSIM_output:	0.7998722
+../../data/haze/groundtruth/002_left.png
+PSNR_input:	15.858429751755116
+SSIM_input:	0.54206336
+PSNR_output:	15.29748424407414
+SSIM_output:	0.54135555
+../../data/haze/groundtruth/002_right.png
+PSNR_input:	18.221693431292167
+SSIM_input:	0.7804052
+PSNR_output:	17.48265592277662
+SSIM_output:	0.77282745
+../../data/haze/groundtruth/003_left.png
+PSNR_input:	15.008250035653159
+SSIM_input:	0.43603507
+PSNR_output:	14.42122996673069
+SSIM_output:	0.42310753
+../../data/haze/groundtruth/003_right.png
+PSNR_input:	18.749729212302803
+SSIM_input:	0.74764544
+PSNR_output:	18.650662407025578
+SSIM_output:	0.7464916
+../../data/haze/groundtruth/004_left.png
+PSNR_input:	15.108010661995596
+SSIM_input:	0.52079874
+PSNR_output:	14.39812100774207
+SSIM_output:	0.50144845
+../../data/haze/groundtruth/004_right.png
+PSNR_input:	16.599729154493158
+SSIM_input:	0.7413487
+PSNR_output:	15.935812456990249
+SSIM_output:	0.7118738
+../../data/haze/groundtruth/005_left.png
+PSNR_input:	16.370160322854346
+SSIM_input:	0.659288
+PSNR_output:	17.102528004444416
+SSIM_output:	0.6507295
+../../data/haze/groundtruth/005_right.png
+PSNR_input:	17.773115435695512
+SSIM_input:	0.8253426
+PSNR_output:	17.429292938123467
+SSIM_output:	0.8201144
+../../data/haze/groundtruth/006_left.png
+PSNR_input:	15.586800787417443
+SSIM_input:	0.48234358
+PSNR_output:	14.953027122339776
+SSIM_output:	0.4564829
+../../data/haze/groundtruth/006_right.png
+PSNR_input:	20.785136721866625
+SSIM_input:	0.7707946
+PSNR_output:	19.10374120693017
+SSIM_output:	0.74683255
+../../data/haze/groundtruth/007_left.png
+PSNR_input:	10.729223610521448
+SSIM_input:	0.6550074
+PSNR_output:	12.159476820835597
+SSIM_output:	0.67141277
+../../data/haze/groundtruth/007_right.png
+PSNR_input:	17.10532039126118
+SSIM_input:	0.8254056
+PSNR_output:	15.269978114948685
+SSIM_output:	0.79765683
+../../data/haze/groundtruth/008_left.png
+PSNR_input:	14.499815707068018
+SSIM_input:	0.7663054
+PSNR_output:	16.49728002938158
+SSIM_output:	0.7797203
+../../data/haze/groundtruth/008_right.png
+PSNR_input:	14.865624963668465
+SSIM_input:	0.7727608
+PSNR_output:	13.996807769837051
+SSIM_output:	0.7547806
+../../data/haze/groundtruth/009_left.png
+PSNR_input:	13.687906771580277
+SSIM_input:	0.6891921
+PSNR_output:	13.278184966393233
+SSIM_output:	0.66664284
+../../data/haze/groundtruth/009_right.png
+PSNR_input:	14.173663655080091
+SSIM_input:	0.78146714
+PSNR_output:	12.713338219840956
+SSIM_output:	0.74824834
+../../data/haze/groundtruth/010_left.png
+PSNR_input:	12.458766532655261
+SSIM_input:	0.49248493
+PSNR_output:	13.029750761920251
+SSIM_output:	0.48380113
+../../data/haze/groundtruth/010_right.png
+PSNR_input:	16.710459162200266
+SSIM_input:	0.74407864
+PSNR_output:	16.30992394142977
+SSIM_output:	0.73452944
+../../data/haze/groundtruth/011_left.png
+PSNR_input:	14.411190384897193
+SSIM_input:	0.39749613
+PSNR_output:	14.522845440279005
+SSIM_output:	0.36570755
+../../data/haze/groundtruth/011_right.png
+PSNR_input:	11.468430236971807
+SSIM_input:	0.6463317
+PSNR_output:	10.81899940359057
+SSIM_output:	0.6094852
+../../data/haze/groundtruth/012_left.png
+PSNR_input:	12.322370351810164
+SSIM_input:	0.6258138
+PSNR_output:	11.437445549202547
+SSIM_output:	0.56757236
+../../data/haze/groundtruth/012_right.png
+PSNR_input:	14.850344505453732
+SSIM_input:	0.75368613
+PSNR_output:	13.694681170511188
+SSIM_output:	0.71562463
+../../data/haze/groundtruth/013_left.png
+PSNR_input:	13.729363080319473
+SSIM_input:	0.61670154
+PSNR_output:	13.048451044219838
+SSIM_output:	0.57836723
+../../data/haze/groundtruth/013_right.png
+PSNR_input:	16.59606790235813
+SSIM_input:	0.7613186
+PSNR_output:	15.433254556216994
+SSIM_output:	0.73437
+../../data/haze/groundtruth/014_left.png
+PSNR_input:	12.934051610522118
+SSIM_input:	0.62865615
+PSNR_output:	12.422018932493321
+SSIM_output:	0.5996701
+../../data/haze/groundtruth/014_right.png
+PSNR_input:	14.196521914562197
+SSIM_input:	0.6915612
+PSNR_output:	12.59531295312472
+SSIM_output:	0.6559395
+../../data/haze/groundtruth/015_left.png
+PSNR_input:	16.250934276514194
+SSIM_input:	0.6941052
+PSNR_output:	15.329385645746868
+SSIM_output:	0.6769071
+../../data/haze/groundtruth/015_right.png
+PSNR_input:	16.87094587839716
+SSIM_input:	0.69851565
+PSNR_output:	15.39293016000601
+SSIM_output:	0.6824067
+../../data/haze/groundtruth/016_left.png
+PSNR_input:	14.577205512860962
+SSIM_input:	0.671983
+PSNR_output:	13.882756410225795
+SSIM_output:	0.6413769
+../../data/haze/groundtruth/016_right.png
+PSNR_input:	16.418510644332894
+SSIM_input:	0.77606505
+PSNR_output:	15.610572592980985
+SSIM_output:	0.75594306
+../../data/haze/groundtruth/017_left.png
+PSNR_input:	15.14241110207907
+SSIM_input:	0.662687
+PSNR_output:	14.332525612870397
+SSIM_output:	0.62422854
+../../data/haze/groundtruth/017_right.png
+PSNR_input:	16.14890955504265
+SSIM_input:	0.7195606
+PSNR_output:	15.50698707889099
+SSIM_output:	0.7037067
+../../data/haze/groundtruth/018_left.png
+PSNR_input:	15.217794831676203
+SSIM_input:	0.6461637
+PSNR_output:	13.794452079507128
+SSIM_output:	0.587454
+../../data/haze/groundtruth/018_right.png
+PSNR_input:	16.191628456292264
+SSIM_input:	0.7092249
+PSNR_output:	15.514814393146409
+SSIM_output:	0.6933567
+../../data/haze/groundtruth/019_left.png
+PSNR_input:	17.67678701007904
+SSIM_input:	0.41499206
+PSNR_output:	18.03397140123154
+SSIM_output:	0.40828797
+../../data/haze/groundtruth/019_right.png
+PSNR_input:	14.151173922647327
+SSIM_input:	0.6305832
+PSNR_output:	12.533273836644911
+SSIM_output:	0.5784612
+../../data/haze/groundtruth/020_left.png
+PSNR_input:	16.632891311665666
+SSIM_input:	0.6997022
+PSNR_output:	16.471754777665076
+SSIM_output:	0.6900212
+../../data/haze/groundtruth/020_right.png
+PSNR_input:	14.801464537516395
+SSIM_input:	0.70679873
+PSNR_output:	13.765757323128831
+SSIM_output:	0.6869921
+../../data/haze/groundtruth/021_left.png
+PSNR_input:	13.602014680622004
+SSIM_input:	0.6672309
+PSNR_output:	13.617441090782126
+SSIM_output:	0.63947535
+../../data/haze/groundtruth/021_right.png
+PSNR_input:	17.343436188156513
+SSIM_input:	0.63848716
+PSNR_output:	16.44548280101887
+SSIM_output:	0.6308369
+../../data/haze/groundtruth/022_left.png
+PSNR_input:	13.103769835446856
+SSIM_input:	0.511988
+PSNR_output:	13.780644826880152
+SSIM_output:	0.49529555
+../../data/haze/groundtruth/022_right.png
+PSNR_input:	16.54409536007714
+SSIM_input:	0.76957464
+PSNR_output:	16.395404991690494
+SSIM_output:	0.75981826
+../../data/haze/groundtruth/023_left.png
+PSNR_input:	14.18631324932405
+SSIM_input:	0.45724985
+PSNR_output:	13.770803654531827
+SSIM_output:	0.44636154
+../../data/haze/groundtruth/023_right.png
+PSNR_input:	16.5661798336785
+SSIM_input:	0.766813
+PSNR_output:	15.651437097899342
+SSIM_output:	0.7542088
+../../data/haze/groundtruth/024_left.png
+PSNR_input:	14.747820295605337
+SSIM_input:	0.51283735
+PSNR_output:	14.078925275512852
+SSIM_output:	0.48032078
+../../data/haze/groundtruth/024_right.png
+PSNR_input:	15.469555847735672
+SSIM_input:	0.7348685
+PSNR_output:	14.831502229617302
+SSIM_output:	0.71369356
+../../data/haze/groundtruth/025_left.png
+PSNR_input:	15.931960655182618
+SSIM_input:	0.56421727
+PSNR_output:	14.514957594992728
+SSIM_output:	0.5176566
+../../data/haze/groundtruth/025_right.png
+PSNR_input:	17.658501356776476
+SSIM_input:	0.76955014
+PSNR_output:	16.482237569767584
+SSIM_output:	0.7424627
+../../data/haze/groundtruth/026_left.png
+PSNR_input:	12.52280726802259
+SSIM_input:	0.66310143
+PSNR_output:	13.852207433499471
+SSIM_output:	0.6667082
+../../data/haze/groundtruth/026_right.png
+PSNR_input:	18.34687135034638
+SSIM_input:	0.8296094
+PSNR_output:	17.137266328539454
+SSIM_output:	0.81110436
+../../data/haze/groundtruth/027_left.png
+PSNR_input:	15.593734264086091
+SSIM_input:	0.687663
+PSNR_output:	15.360613747191675
+SSIM_output:	0.6603312
+../../data/haze/groundtruth/027_right.png
+PSNR_input:	20.76683009443288
+SSIM_input:	0.84196186
+PSNR_output:	19.644443850219588
+SSIM_output:	0.8262551
+../../data/haze/groundtruth/028_left.png
+PSNR_input:	17.295742766807326
+SSIM_input:	0.68146783
+PSNR_output:	16.912123020206963
+SSIM_output:	0.6515784
+../../data/haze/groundtruth/028_right.png
+PSNR_input:	20.299993424833257
+SSIM_input:	0.86666226
+PSNR_output:	20.142642736913025
+SSIM_output:	0.85656905
+../../data/haze/groundtruth/029_left.png
+PSNR_input:	13.425540349561906
+SSIM_input:	0.7301462
+PSNR_output:	14.611300648298704
+SSIM_output:	0.7284345
+../../data/haze/groundtruth/029_right.png
+PSNR_input:	16.377276464534173
+SSIM_input:	0.8687375
+PSNR_output:	14.656531458682135
+SSIM_output:	0.83385205
+../../data/haze/groundtruth/030_left.png
+PSNR_input:	11.135695569539656
+SSIM_input:	0.7168997
+PSNR_output:	11.648119208414112
+SSIM_output:	0.7139163
+../../data/haze/groundtruth/030_right.png
+PSNR_input:	18.9619774836489
+SSIM_input:	0.8611395
+PSNR_output:	18.705764585308565
+SSIM_output:	0.84947366
+../../data/haze/groundtruth/031_left.png
+PSNR_input:	13.604985168486419
+SSIM_input:	0.44646716
+PSNR_output:	13.117073845351129
+SSIM_output:	0.4281056
+../../data/haze/groundtruth/031_right.png
+PSNR_input:	18.090087287048323
+SSIM_input:	0.77846617
+PSNR_output:	17.122139579770867
+SSIM_output:	0.7555864
+../../data/haze/groundtruth/032_left.png
+PSNR_input:	16.302690869442607
+SSIM_input:	0.59658974
+PSNR_output:	15.453595436125537
+SSIM_output:	0.58641446
+../../data/haze/groundtruth/032_right.png
+PSNR_input:	17.210268093606665
+SSIM_input:	0.7791788
+PSNR_output:	17.615526023667762
+SSIM_output:	0.77945757
+../../data/haze/groundtruth/033_left.png
+PSNR_input:	13.766512785405942
+SSIM_input:	0.5033256
+PSNR_output:	14.584131693447615
+SSIM_output:	0.5021879
+../../data/haze/groundtruth/033_right.png
+PSNR_input:	16.397602812671572
+SSIM_input:	0.71698713
+PSNR_output:	15.550918767838686
+SSIM_output:	0.7053356
+../../data/haze/groundtruth/034_left.png
+PSNR_input:	15.564547378865472
+SSIM_input:	0.53197473
+PSNR_output:	15.584056390945149
+SSIM_output:	0.5153376
+../../data/haze/groundtruth/034_right.png
+PSNR_input:	15.568959749896656
+SSIM_input:	0.78411597
+PSNR_output:	15.509529473527387
+SSIM_output:	0.7772005
+../../data/haze/groundtruth/035_left.png
+PSNR_input:	14.66722261535814
+SSIM_input:	0.57349086
+PSNR_output:	14.23662753526819
+SSIM_output:	0.535135
+../../data/haze/groundtruth/035_right.png
+PSNR_input:	17.65974875072704
+SSIM_input:	0.84764147
+PSNR_output:	16.604453985735603
+SSIM_output:	0.83246046
+../../data/haze/groundtruth/036_left.png
+PSNR_input:	15.477725973045073
+SSIM_input:	0.63623494
+PSNR_output:	17.201544307411037
+SSIM_output:	0.625182
+../../data/haze/groundtruth/036_right.png
+PSNR_input:	19.413488797970214
+SSIM_input:	0.8594873
+PSNR_output:	17.120798954739332
+SSIM_output:	0.84544826
+../../data/haze/groundtruth/037_left.png
+PSNR_input:	12.452727266531499
+SSIM_input:	0.48821613
+PSNR_output:	14.25135258728783
+SSIM_output:	0.47819296
+../../data/haze/groundtruth/037_right.png
+PSNR_input:	16.168133726669062
+SSIM_input:	0.7106109
+PSNR_output:	16.630170120194926
+SSIM_output:	0.7072063
+../../data/haze/groundtruth/038_left.png
+PSNR_input:	15.921375286715167
+SSIM_input:	0.720176
+PSNR_output:	17.009236343232324
+SSIM_output:	0.69646007
+../../data/haze/groundtruth/038_right.png
+PSNR_input:	16.262677022465656
+SSIM_input:	0.85310644
+PSNR_output:	15.862062680673553
+SSIM_output:	0.83823746
+../../data/haze/groundtruth/039_left.png
+PSNR_input:	16.804336016093696
+SSIM_input:	0.66720724
+PSNR_output:	16.343137815299617
+SSIM_output:	0.65337336
+../../data/haze/groundtruth/039_right.png
+PSNR_input:	18.27884733401441
+SSIM_input:	0.8425696
+PSNR_output:	17.736847397437256
+SSIM_output:	0.8348112
+../../data/haze/groundtruth/040_left.png
+PSNR_input:	15.412600703959193
+SSIM_input:	0.66010666
+PSNR_output:	14.55007968487811
+SSIM_output:	0.6130871
+../../data/haze/groundtruth/040_right.png
+PSNR_input:	16.34703517306882
+SSIM_input:	0.8583197
+PSNR_output:	16.029396982991557
+SSIM_output:	0.84564114
+../../data/haze/groundtruth/041_left.png
+PSNR_input:	14.531825554540735
+SSIM_input:	0.70979935
+PSNR_output:	14.605661143576452
+SSIM_output:	0.6755722
+../../data/haze/groundtruth/041_right.png
+PSNR_input:	18.719176741050937
+SSIM_input:	0.8694784
+PSNR_output:	18.204073018816743
+SSIM_output:	0.8459304
+../../data/haze/groundtruth/042_left.png
+PSNR_input:	14.507913740395688
+SSIM_input:	0.7308099
+PSNR_output:	14.988790368425398
+SSIM_output:	0.7077262
+../../data/haze/groundtruth/042_right.png
+PSNR_input:	18.52349763541218
+SSIM_input:	0.8673895
+PSNR_output:	18.3388479603449
+SSIM_output:	0.8522766
+../../data/haze/groundtruth/043_left.png
+PSNR_input:	11.506610832754916
+SSIM_input:	0.6310923
+PSNR_output:	12.357062204498867
+SSIM_output:	0.6254887
+../../data/haze/groundtruth/043_right.png
+PSNR_input:	19.162070401993333
+SSIM_input:	0.86378604
+PSNR_output:	18.1898587006156
+SSIM_output:	0.8433411
+../../data/haze/groundtruth/044_left.png
+PSNR_input:	20.84642954684853
+SSIM_input:	0.63779247
+PSNR_output:	20.032477541726145
+SSIM_output:	0.6008818
+../../data/haze/groundtruth/044_right.png
+PSNR_input:	20.52694645178245
+SSIM_input:	0.8469383
+PSNR_output:	19.90057160353526
+SSIM_output:	0.8328107
+../../data/haze/groundtruth/045_left.png
+PSNR_input:	15.522347456084479
+SSIM_input:	0.68299
+PSNR_output:	16.689504013378517
+SSIM_output:	0.6821601
+../../data/haze/groundtruth/045_right.png
+PSNR_input:	18.519791785115274
+SSIM_input:	0.8720606
+PSNR_output:	17.608903422165366
+SSIM_output:	0.8547198
+../../data/haze/groundtruth/046_left.png
+PSNR_input:	14.574807861411932
+SSIM_input:	0.6403312
+PSNR_output:	14.819409405929775
+SSIM_output:	0.6370897
+../../data/haze/groundtruth/046_right.png
+PSNR_input:	16.64878170156108
+SSIM_input:	0.83170146
+PSNR_output:	15.687006008576938
+SSIM_output:	0.8204234
+../../data/haze/groundtruth/047_left.png
+PSNR_input:	13.881791172410107
+SSIM_input:	0.53376096
+PSNR_output:	14.159649829793647
+SSIM_output:	0.52853537
+../../data/haze/groundtruth/047_right.png
+PSNR_input:	15.901084292456382
+SSIM_input:	0.76233244
+PSNR_output:	15.75570920861791
+SSIM_output:	0.75580263
+../../data/haze/groundtruth/048_left.png
+PSNR_input:	14.67660227673922
+SSIM_input:	0.5337748
+PSNR_output:	14.83795887683765
+SSIM_output:	0.5131237
+../../data/haze/groundtruth/048_right.png
+PSNR_input:	16.203094651187197
+SSIM_input:	0.82203597
+PSNR_output:	16.52874107202376
+SSIM_output:	0.8186989
+../../data/haze/groundtruth/049_left.png
+PSNR_input:	14.840164671484645
+SSIM_input:	0.6504906
+PSNR_output:	17.23192759481204
+SSIM_output:	0.6618412
+../../data/haze/groundtruth/049_right.png
+PSNR_input:	18.36781930589769
+SSIM_input:	0.8672132
+PSNR_output:	18.520798253353533
+SSIM_output:	0.86568946
+../../data/haze/groundtruth/050_left.png
+PSNR_input:	14.584640549522812
+SSIM_input:	0.6388428
+PSNR_output:	16.281979988160813
+SSIM_output:	0.6155062
+../../data/haze/groundtruth/050_right.png
+PSNR_input:	18.46480502408887
+SSIM_input:	0.8574857
+PSNR_output:	16.250034579442964
+SSIM_output:	0.8303568
+../../data/haze/groundtruth/051_left.png
+PSNR_input:	13.503417704714252
+SSIM_input:	0.59148806
+PSNR_output:	14.161958468110555
+SSIM_output:	0.5944676
+../../data/haze/groundtruth/051_right.png
+PSNR_input:	13.229314162246224
+SSIM_input:	0.76699543
+PSNR_output:	12.837937488557642
+SSIM_output:	0.7555642
+../../data/haze/groundtruth/052_left.png
+PSNR_input:	13.68153201936334
+SSIM_input:	0.5727119
+PSNR_output:	13.4169460491081
+SSIM_output:	0.5220812
+../../data/haze/groundtruth/052_right.png
+PSNR_input:	19.182565319690465
+SSIM_input:	0.8421784
+PSNR_output:	18.71745819386303
+SSIM_output:	0.83367187
+../../data/haze/groundtruth/053_left.png
+PSNR_input:	14.25864225242412
+SSIM_input:	0.5506974
+PSNR_output:	14.65153220808358
+SSIM_output:	0.53276163
+../../data/haze/groundtruth/053_right.png
+PSNR_input:	15.818872819176175
+SSIM_input:	0.7898845
+PSNR_output:	16.00347594214221
+SSIM_output:	0.7851736
+../../data/haze/groundtruth/054_left.png
+PSNR_input:	16.58088326930423
+SSIM_input:	0.71706
+PSNR_output:	16.059303302551633
+SSIM_output:	0.70338964
+../../data/haze/groundtruth/054_right.png
+PSNR_input:	21.7823202712963
+SSIM_input:	0.8790172
+PSNR_output:	20.447201510046078
+SSIM_output:	0.8706155
+../../data/haze/groundtruth/055_left.png
+PSNR_input:	11.50359770275079
+SSIM_input:	0.6964714
+PSNR_output:	13.450753386143965
+SSIM_output:	0.7177963
+../../data/haze/groundtruth/055_right.png
+PSNR_input:	18.736068365928165
+SSIM_input:	0.8592712
+PSNR_output:	17.694323791326187
+SSIM_output:	0.8507692
+../../data/haze/groundtruth/056_left.png
+PSNR_input:	15.816205141839905
+SSIM_input:	0.5940334
+PSNR_output:	15.090192909332513
+SSIM_output:	0.5594012
+../../data/haze/groundtruth/056_right.png
+PSNR_input:	18.037886119384844
+SSIM_input:	0.8534097
+PSNR_output:	18.2015327469345
+SSIM_output:	0.8423994
+../../data/haze/groundtruth/057_left.png
+PSNR_input:	14.372518497396626
+SSIM_input:	0.6530871
+PSNR_output:	14.527287025813248
+SSIM_output:	0.6350114
+../../data/haze/groundtruth/057_right.png
+PSNR_input:	17.569311488320878
+SSIM_input:	0.8570096
+PSNR_output:	16.586624890250896
+SSIM_output:	0.8467133
+../../data/haze/groundtruth/058_left.png
+PSNR_input:	16.284248832249858
+SSIM_input:	0.75394183
+PSNR_output:	18.145501486862507
+SSIM_output:	0.7557072
+../../data/haze/groundtruth/058_right.png
+PSNR_input:	18.596578347183552
+SSIM_input:	0.87316513
+PSNR_output:	17.51262811879713
+SSIM_output:	0.86303526
+../../data/haze/groundtruth/059_left.png
+PSNR_input:	12.601700857785481
+SSIM_input:	0.67683357
+PSNR_output:	14.534412350121034
+SSIM_output:	0.6861208
+../../data/haze/groundtruth/059_right.png
+PSNR_input:	17.394535710352415
+SSIM_input:	0.8473308
+PSNR_output:	16.921203824327907
+SSIM_output:	0.8193123
+../../data/haze/groundtruth/060_left.png
+PSNR_input:	17.280038413044544
+SSIM_input:	0.84861165
+PSNR_output:	19.23496399161238
+SSIM_output:	0.85125035
+../../data/haze/groundtruth/060_right.png
+PSNR_input:	19.586436224156504
+SSIM_input:	0.8387527
+PSNR_output:	19.544907660377707
+SSIM_output:	0.8281117
+../../data/haze/groundtruth/061_left.png
+PSNR_input:	16.984938084654917
+SSIM_input:	0.843497
+PSNR_output:	16.086370019790685
+SSIM_output:	0.82414585
+../../data/haze/groundtruth/061_right.png
+PSNR_input:	19.496373463799156
+SSIM_input:	0.87894934
+PSNR_output:	20.29921732828871
+SSIM_output:	0.87641054
+../../data/haze/groundtruth/062_left.png
+PSNR_input:	14.33669777963254
+SSIM_input:	0.7932093
+PSNR_output:	13.223343743947602
+SSIM_output:	0.755702
+../../data/haze/groundtruth/062_right.png
+PSNR_input:	16.934776641518706
+SSIM_input:	0.8727274
+PSNR_output:	17.66343736262519
+SSIM_output:	0.8724323
+../../data/haze/groundtruth/063_left.png
+PSNR_input:	21.038974371993806
+SSIM_input:	0.8897987
+PSNR_output:	20.37487345216341
+SSIM_output:	0.857436
+../../data/haze/groundtruth/063_right.png
+PSNR_input:	19.24104013554529
+SSIM_input:	0.845571
+PSNR_output:	18.538704952303718
+SSIM_output:	0.81000185
+../../data/haze/groundtruth/064_left.png
+PSNR_input:	13.950243746800526
+SSIM_input:	0.8011747
+PSNR_output:	13.23587300311101
+SSIM_output:	0.77719355
+../../data/haze/groundtruth/064_right.png
+PSNR_input:	17.926663207815235
+SSIM_input:	0.8674395
+PSNR_output:	19.228686045358813
+SSIM_output:	0.8657873
+../../data/haze/groundtruth/065_left.png
+PSNR_input:	13.691497757572602
+SSIM_input:	0.7267213
+PSNR_output:	12.923809364710996
+SSIM_output:	0.70113325
+../../data/haze/groundtruth/065_right.png
+PSNR_input:	17.309067302631615
+SSIM_input:	0.8844885
+PSNR_output:	19.2123534086328
+SSIM_output:	0.890529
+../../data/haze/groundtruth/066_left.png
+PSNR_input:	13.784038715672134
+SSIM_input:	0.8385143
+PSNR_output:	14.350369885054455
+SSIM_output:	0.8328207
+../../data/haze/groundtruth/066_right.png
+PSNR_input:	17.77874745424065
+SSIM_input:	0.8673617
+PSNR_output:	18.247074532436475
+SSIM_output:	0.8561135
+../../data/haze/groundtruth/067_left.png
+PSNR_input:	21.165920179796387
+SSIM_input:	0.83889765
+PSNR_output:	20.418629423916855
+SSIM_output:	0.82869786
+../../data/haze/groundtruth/067_right.png
+PSNR_input:	17.513767660078642
+SSIM_input:	0.88785315
+PSNR_output:	19.648027183410733
+SSIM_output:	0.8924553
+../../data/haze/groundtruth/068_left.png
+PSNR_input:	17.19263100117143
+SSIM_input:	0.86032706
+PSNR_output:	16.147256862505003
+SSIM_output:	0.8350603
+../../data/haze/groundtruth/068_right.png
+PSNR_input:	15.838531291657759
+SSIM_input:	0.87059003
+PSNR_output:	16.943284247835212
+SSIM_output:	0.87284285
+../../data/haze/groundtruth/069_left.png
+PSNR_input:	16.200668440729547
+SSIM_input:	0.86036825
+PSNR_output:	18.49269835176206
+SSIM_output:	0.8650523
+../../data/haze/groundtruth/069_right.png
+PSNR_input:	16.365292832824913
+SSIM_input:	0.85701686
+PSNR_output:	17.11897308835457
+SSIM_output:	0.8509435
+../../data/haze/groundtruth/070_left.png
+PSNR_input:	17.030062149399527
+SSIM_input:	0.82734054
+PSNR_output:	15.728084401741713
+SSIM_output:	0.8021863
+../../data/haze/groundtruth/070_right.png
+PSNR_input:	14.641176735967196
+SSIM_input:	0.84103537
+PSNR_output:	14.496982959388445
+SSIM_output:	0.826629
+../../data/haze/groundtruth/071_left.png
+PSNR_input:	13.719831985182545
+SSIM_input:	0.8023915
+PSNR_output:	14.883815416268515
+SSIM_output:	0.8012478
+../../data/haze/groundtruth/071_right.png
+PSNR_input:	18.035447407913242
+SSIM_input:	0.8609445
+PSNR_output:	18.032843200993753
+SSIM_output:	0.84857583
+../../data/haze/groundtruth/072_left.png
+PSNR_input:	12.455340956824132
+SSIM_input:	0.6989139
+PSNR_output:	11.921744465269306
+SSIM_output:	0.67238855
+../../data/haze/groundtruth/072_right.png
+PSNR_input:	16.047261111240353
+SSIM_input:	0.81284857
+PSNR_output:	16.137983504504383
+SSIM_output:	0.8067065
+../../data/haze/groundtruth/073_left.png
+PSNR_input:	19.36698973862148
+SSIM_input:	0.85579175
+PSNR_output:	18.281528695784445
+SSIM_output:	0.8193179
+../../data/haze/groundtruth/073_right.png
+PSNR_input:	21.553625509272262
+SSIM_input:	0.79943824
+PSNR_output:	20.82766284454543
+SSIM_output:	0.75889355
+../../data/haze/groundtruth/074_left.png
+PSNR_input:	21.352749796952644
+SSIM_input:	0.84091735
+PSNR_output:	20.211519361452027
+SSIM_output:	0.82879144
+../../data/haze/groundtruth/074_right.png
+PSNR_input:	17.495634326795084
+SSIM_input:	0.8060996
+PSNR_output:	19.813230670104996
+SSIM_output:	0.8100893
+../../data/haze/groundtruth/075_left.png
+PSNR_input:	21.136200405356167
+SSIM_input:	0.843932
+PSNR_output:	22.32896165481959
+SSIM_output:	0.8423746
+../../data/haze/groundtruth/075_right.png
+PSNR_input:	17.84380648889659
+SSIM_input:	0.80159956
+PSNR_output:	20.04905101242536
+SSIM_output:	0.8045328
+../../data/haze/groundtruth/076_left.png
+PSNR_input:	17.600222880509378
+SSIM_input:	0.818885
+PSNR_output:	20.114080952157096
+SSIM_output:	0.8301261
+../../data/haze/groundtruth/076_right.png
+PSNR_input:	15.117052951556945
+SSIM_input:	0.77256685
+PSNR_output:	15.487598628130751
+SSIM_output:	0.76692533
+../../data/haze/groundtruth/077_left.png
+PSNR_input:	16.14429984027943
+SSIM_input:	0.8186094
+PSNR_output:	16.77386010298858
+SSIM_output:	0.79140264
+../../data/haze/groundtruth/077_right.png
+PSNR_input:	19.571332357952475
+SSIM_input:	0.85143995
+PSNR_output:	19.00413166303717
+SSIM_output:	0.81227666
+../../data/haze/groundtruth/078_left.png
+PSNR_input:	16.456776681591784
+SSIM_input:	0.84304065
+PSNR_output:	15.816941998982493
+SSIM_output:	0.82433075
+../../data/haze/groundtruth/078_right.png
+PSNR_input:	17.504105929584043
+SSIM_input:	0.8841746
+PSNR_output:	20.08811508898633
+SSIM_output:	0.8856974
+../../data/haze/groundtruth/079_left.png
+PSNR_input:	18.751096574494866
+SSIM_input:	0.86099005
+PSNR_output:	16.742116987051435
+SSIM_output:	0.8194995
+../../data/haze/groundtruth/079_right.png
+PSNR_input:	15.721479387644878
+SSIM_input:	0.8667333
+PSNR_output:	16.37981230114145
+SSIM_output:	0.85816956
+../../data/haze/groundtruth/080_left.png
+PSNR_input:	17.634764713555867
+SSIM_input:	0.7874244
+PSNR_output:	17.651704350867202
+SSIM_output:	0.7775965
+../../data/haze/groundtruth/080_right.png
+PSNR_input:	16.679128206305535
+SSIM_input:	0.80933744
+PSNR_output:	15.874244927889684
+SSIM_output:	0.79554623
+../../data/haze/groundtruth/081_left.png
+PSNR_input:	16.78689593325776
+SSIM_input:	0.7517917
+PSNR_output:	16.466911538092788
+SSIM_output:	0.73692656
+../../data/haze/groundtruth/081_right.png
+PSNR_input:	15.178691844270588
+SSIM_input:	0.8155325
+PSNR_output:	17.195978846464875
+SSIM_output:	0.82096434
+../../data/haze/groundtruth/082_left.png
+PSNR_input:	17.291713445668368
+SSIM_input:	0.79324985
+PSNR_output:	16.081719275577615
+SSIM_output:	0.7753525
+../../data/haze/groundtruth/082_right.png
+PSNR_input:	18.816964644033863
+SSIM_input:	0.86766833
+PSNR_output:	18.282507667655473
+SSIM_output:	0.8584692
+../../data/haze/groundtruth/083_left.png
+PSNR_input:	18.28297269823569
+SSIM_input:	0.8355064
+PSNR_output:	17.643533034659306
+SSIM_output:	0.8098386
+../../data/haze/groundtruth/083_right.png
+PSNR_input:	20.085872391208298
+SSIM_input:	0.88422614
+PSNR_output:	19.768696125588107
+SSIM_output:	0.8707113
+../../data/haze/groundtruth/084_left.png
+PSNR_input:	16.78163602321938
+SSIM_input:	0.86338997
+PSNR_output:	18.363221390485894
+SSIM_output:	0.8654204
+../../data/haze/groundtruth/084_right.png
+PSNR_input:	16.804913800970628
+SSIM_input:	0.87866217
+PSNR_output:	15.4559970300684
+SSIM_output:	0.8553619
+../../data/haze/groundtruth/085_left.png
+PSNR_input:	20.38067306512933
+SSIM_input:	0.8684127
+PSNR_output:	18.05975328991832
+SSIM_output:	0.82849437
+../../data/haze/groundtruth/085_right.png
+PSNR_input:	18.60757034324111
+SSIM_input:	0.8347567
+PSNR_output:	17.8886080201453
+SSIM_output:	0.80647403
+../../data/haze/groundtruth/086_left.png
+PSNR_input:	19.79556136746431
+SSIM_input:	0.80009604
+PSNR_output:	18.422702664432297
+SSIM_output:	0.76374435
+../../data/haze/groundtruth/086_right.png
+PSNR_input:	20.56979353875443
+SSIM_input:	0.84963757
+PSNR_output:	20.39053507451754
+SSIM_output:	0.83355045
+../../data/haze/groundtruth/087_left.png
+PSNR_input:	21.707613122531825
+SSIM_input:	0.7972958
+PSNR_output:	20.003981754069635
+SSIM_output:	0.7395627
+../../data/haze/groundtruth/087_right.png
+PSNR_input:	19.629427520173934
+SSIM_input:	0.8263914
+PSNR_output:	18.73944335447408
+SSIM_output:	0.790482
+../../data/haze/groundtruth/088_left.png
+PSNR_input:	17.39978454461725
+SSIM_input:	0.83045596
+PSNR_output:	17.74519322908899
+SSIM_output:	0.8123227
+../../data/haze/groundtruth/088_right.png
+PSNR_input:	16.825930563384894
+SSIM_input:	0.8273557
+PSNR_output:	16.090519283460363
+SSIM_output:	0.8017585
+../../data/haze/groundtruth/089_left.png
+PSNR_input:	15.760273217747713
+SSIM_input:	0.7354683
+PSNR_output:	15.086402757703572
+SSIM_output:	0.7130825
+../../data/haze/groundtruth/089_right.png
+PSNR_input:	18.427014603976506
+SSIM_input:	0.84936595
+PSNR_output:	19.421271427184948
+SSIM_output:	0.8486845
+../../data/haze/groundtruth/090_left.png
+PSNR_input:	19.64607448705928
+SSIM_input:	0.8189505
+PSNR_output:	18.888084474738875
+SSIM_output:	0.80071336
+../../data/haze/groundtruth/090_right.png
+PSNR_input:	13.215624285253245
+SSIM_input:	0.8172236
+PSNR_output:	15.028913404157066
+SSIM_output:	0.8300023
+../../data/haze/groundtruth/091_left.png
+PSNR_input:	19.640838606259003
+SSIM_input:	0.8555835
+PSNR_output:	18.45406376518453
+SSIM_output:	0.823466
+../../data/haze/groundtruth/091_right.png
+PSNR_input:	16.40950501858478
+SSIM_input:	0.8479871
+PSNR_output:	16.477507306573965
+SSIM_output:	0.828084
+../../data/haze/groundtruth/092_left.png
+PSNR_input:	15.193486800291936
+SSIM_input:	0.8307312
+PSNR_output:	15.834822951226295
+SSIM_output:	0.8290495
+../../data/haze/groundtruth/092_right.png
+PSNR_input:	16.296231187247677
+SSIM_input:	0.8609603
+PSNR_output:	16.331333139585805
+SSIM_output:	0.8553534
+../../data/haze/groundtruth/093_left.png
+PSNR_input:	19.028288035670204
+SSIM_input:	0.8747359
+PSNR_output:	18.118298495758385
+SSIM_output:	0.86032313
+../../data/haze/groundtruth/093_right.png
+PSNR_input:	17.21853358415916
+SSIM_input:	0.8769501
+PSNR_output:	17.48431264842912
+SSIM_output:	0.8713992
+../../data/haze/groundtruth/094_left.png
+PSNR_input:	15.164031961318473
+SSIM_input:	0.78025293
+PSNR_output:	14.59383744572726
+SSIM_output:	0.7672207
+../../data/haze/groundtruth/094_right.png
+PSNR_input:	17.833512759808162
+SSIM_input:	0.87523335
+PSNR_output:	19.076922027027955
+SSIM_output:	0.87421554
+../../data/haze/groundtruth/095_left.png
+PSNR_input:	15.078711206734246
+SSIM_input:	0.86866945
+PSNR_output:	16.74788241759406
+SSIM_output:	0.87196845
+../../data/haze/groundtruth/095_right.png
+PSNR_input:	16.79352695172868
+SSIM_input:	0.85398763
+PSNR_output:	15.636494838517581
+SSIM_output:	0.8317554
+../../data/haze/groundtruth/096_left.png
+PSNR_input:	19.4793540375521
+SSIM_input:	0.84193736
+PSNR_output:	17.657889385058326
+SSIM_output:	0.8162963
+../../data/haze/groundtruth/096_right.png
+PSNR_input:	18.355021259305516
+SSIM_input:	0.80330825
+PSNR_output:	18.071419231881265
+SSIM_output:	0.78454876
+../../data/haze/groundtruth/097_left.png
+PSNR_input:	15.609829380535734
+SSIM_input:	0.7466566
+PSNR_output:	14.102124309552604
+SSIM_output:	0.7219424
+../../data/haze/groundtruth/097_right.png
+PSNR_input:	15.925142469791705
+SSIM_input:	0.75373036
+PSNR_output:	13.840155442279812
+SSIM_output:	0.7256222
+../../data/haze/groundtruth/098_left.png
+PSNR_input:	19.433610006548296
+SSIM_input:	0.7607787
+PSNR_output:	17.662945097465546
+SSIM_output:	0.7076388
+../../data/haze/groundtruth/098_right.png
+PSNR_input:	18.586356575111548
+SSIM_input:	0.7658023
+PSNR_output:	16.903479245292395
+SSIM_output:	0.72729397
+../../data/haze/groundtruth/099_left.png
+PSNR_input:	16.107819897394045
+SSIM_input:	0.7654924
+PSNR_output:	15.163024511088878
+SSIM_output:	0.74492234
+../../data/haze/groundtruth/099_right.png
+PSNR_input:	17.3346441773203
+SSIM_input:	0.85309976
+PSNR_output:	19.108354813413804
+SSIM_output:	0.8518179
+../../data/haze/groundtruth/100_left.png
+PSNR_input:	19.831918946093538
+SSIM_input:	0.7793927
+PSNR_output:	18.960272900745522
+SSIM_output:	0.7625497
+../../data/haze/groundtruth/100_right.png
+PSNR_input:	17.590896747473376
+SSIM_input:	0.6801009
+PSNR_output:	16.7049604315119
+SSIM_output:	0.6601849
+../../data/haze/groundtruth/101_left.png
+PSNR_input:	17.70966429904218
+SSIM_input:	0.7035143
+PSNR_output:	16.56206384974267
+SSIM_output:	0.6709704
+../../data/haze/groundtruth/101_right.png
+PSNR_input:	18.742442916422245
+SSIM_input:	0.78371453
+PSNR_output:	17.28028833315348
+SSIM_output:	0.75243646
+../../data/haze/groundtruth/102_left.png
+PSNR_input:	19.290487657283652
+SSIM_input:	0.8324117
+PSNR_output:	20.545491408380222
+SSIM_output:	0.8083079
+../../data/haze/groundtruth/102_right.png
+PSNR_input:	19.939680782622524
+SSIM_input:	0.810566
+PSNR_output:	19.588168933328404
+SSIM_output:	0.78454846
+../../data/haze/groundtruth/103_left.png
+PSNR_input:	19.950926227828035
+SSIM_input:	0.77930444
+PSNR_output:	17.383993256993097
+SSIM_output:	0.7538827
+../../data/haze/groundtruth/103_right.png
+PSNR_input:	21.48138384389613
+SSIM_input:	0.83197737
+PSNR_output:	17.821615957764074
+SSIM_output:	0.8113489
+../../data/haze/groundtruth/104_left.png
+PSNR_input:	19.928200198446508
+SSIM_input:	0.8042416
+PSNR_output:	18.045909657063223
+SSIM_output:	0.78431994
+../../data/haze/groundtruth/104_right.png
+PSNR_input:	21.991744770113097
+SSIM_input:	0.85340494
+PSNR_output:	20.46700755042763
+SSIM_output:	0.84373087
+../../data/haze/groundtruth/105_left.png
+PSNR_input:	15.210369514835481
+SSIM_input:	0.83084375
+PSNR_output:	14.758597662008896
+SSIM_output:	0.8164847
+../../data/haze/groundtruth/105_right.png
+PSNR_input:	15.124002488680855
+SSIM_input:	0.7896366
+PSNR_output:	14.887100107633398
+SSIM_output:	0.77646446
+../../data/haze/groundtruth/106_left.png
+PSNR_input:	16.064423376073663
+SSIM_input:	0.8808985
+PSNR_output:	16.14444761645806
+SSIM_output:	0.87095386
+../../data/haze/groundtruth/106_right.png
+PSNR_input:	14.730703075165765
+SSIM_input:	0.75281245
+PSNR_output:	14.33028472799708
+SSIM_output:	0.7321051
+../../data/haze/groundtruth/107_left.png
+PSNR_input:	15.80011943256432
+SSIM_input:	0.80606693
+PSNR_output:	15.352523146537685
+SSIM_output:	0.790212
+../../data/haze/groundtruth/107_right.png
+PSNR_input:	15.058569467526553
+SSIM_input:	0.72984403
+PSNR_output:	13.933713942210792
+SSIM_output:	0.7003165
+../../data/haze/groundtruth/108_left.png
+PSNR_input:	15.403175031126853
+SSIM_input:	0.8035774
+PSNR_output:	14.898605070791202
+SSIM_output:	0.7847333
+../../data/haze/groundtruth/108_right.png
+PSNR_input:	14.610420715505342
+SSIM_input:	0.7065938
+PSNR_output:	13.884376695104706
+SSIM_output:	0.68282574
+../../data/haze/groundtruth/109_left.png
+PSNR_input:	11.96612321328329
+SSIM_input:	0.6780177
+PSNR_output:	11.458670615496882
+SSIM_output:	0.6577492
+../../data/haze/groundtruth/109_right.png
+PSNR_input:	14.403334316831204
+SSIM_input:	0.7475186
+PSNR_output:	14.353100362893294
+SSIM_output:	0.72885203
+../../data/haze/groundtruth/110_left.png
+PSNR_input:	15.2406903719097
+SSIM_input:	0.73232555
+PSNR_output:	13.774708422300465
+SSIM_output:	0.7021365
+../../data/haze/groundtruth/110_right.png
+PSNR_input:	15.089256609099094
+SSIM_input:	0.7077873
+PSNR_output:	14.226764102051206
+SSIM_output:	0.6832983
+../../data/haze/groundtruth/111_left.png
+PSNR_input:	15.098127175350216
+SSIM_input:	0.7010891
+PSNR_output:	13.725691038161461
+SSIM_output:	0.6709695
+../../data/haze/groundtruth/111_right.png
+PSNR_input:	14.599203255120202
+SSIM_input:	0.6948033
+PSNR_output:	14.655498221566663
+SSIM_output:	0.6732695
+../../data/haze/groundtruth/112_left.png
+PSNR_input:	15.726946145621914
+SSIM_input:	0.80900604
+PSNR_output:	15.53598325798408
+SSIM_output:	0.7941959
+../../data/haze/groundtruth/112_right.png
+PSNR_input:	14.86968339378613
+SSIM_input:	0.70321375
+PSNR_output:	14.031259287449739
+SSIM_output:	0.67718095
+../../data/haze/groundtruth/113_left.png
+PSNR_input:	13.454931588651963
+SSIM_input:	0.7026138
+PSNR_output:	12.65508073432355
+SSIM_output:	0.667382
+../../data/haze/groundtruth/113_right.png
+PSNR_input:	13.87101620509874
+SSIM_input:	0.67286175
+PSNR_output:	13.030630253758416
+SSIM_output:	0.6415306
+../../data/haze/groundtruth/114_left.png
+PSNR_input:	14.163758033545752
+SSIM_input:	0.7430374
+PSNR_output:	12.919915341441985
+SSIM_output:	0.71154666
+../../data/haze/groundtruth/114_right.png
+PSNR_input:	16.96867828700422
+SSIM_input:	0.7327266
+PSNR_output:	16.216061104042353
+SSIM_output:	0.7123584
+../../data/haze/groundtruth/115_left.png
+PSNR_input:	13.26454669548886
+SSIM_input:	0.7764633
+PSNR_output:	12.919648957354921
+SSIM_output:	0.75046635
+../../data/haze/groundtruth/115_right.png
+PSNR_input:	16.3949176713521
+SSIM_input:	0.8035477
+PSNR_output:	16.23290503276431
+SSIM_output:	0.794717
+../../data/haze/groundtruth/116_left.png
+PSNR_input:	16.037983316195145
+SSIM_input:	0.8495529
+PSNR_output:	14.937125949207324
+SSIM_output:	0.8213832
+../../data/haze/groundtruth/116_right.png
+PSNR_input:	14.173281386052516
+SSIM_input:	0.799529
+PSNR_output:	14.749248910021286
+SSIM_output:	0.79678255
+../../data/haze/groundtruth/117_left.png
+PSNR_input:	16.5868606735792
+SSIM_input:	0.84835416
+PSNR_output:	16.195113732541003
+SSIM_output:	0.8156087
+../../data/haze/groundtruth/117_right.png
+PSNR_input:	14.930055644252572
+SSIM_input:	0.8170621
+PSNR_output:	15.600185624778435
+SSIM_output:	0.81381243
+../../data/haze/groundtruth/118_left.png
+PSNR_input:	16.829478677030902
+SSIM_input:	0.81446284
+PSNR_output:	16.045280739657958
+SSIM_output:	0.78532106
+../../data/haze/groundtruth/118_right.png
+PSNR_input:	18.49832547163294
+SSIM_input:	0.8156555
+PSNR_output:	17.730280594407915
+SSIM_output:	0.7905286
+../../data/haze/groundtruth/119_left.png
+PSNR_input:	15.11673577083429
+SSIM_input:	0.81088847
+PSNR_output:	15.651368245299766
+SSIM_output:	0.7991214
+../../data/haze/groundtruth/119_right.png
+PSNR_input:	15.345738291923968
+SSIM_input:	0.784777
+PSNR_output:	15.21084469394493
+SSIM_output:	0.769114
+../../data/haze/groundtruth/120_left.png
+PSNR_input:	18.95625213758547
+SSIM_input:	0.86746246
+PSNR_output:	19.403708384382657
+SSIM_output:	0.85989505
+../../data/haze/groundtruth/120_right.png
+PSNR_input:	16.229548861873507
+SSIM_input:	0.81651306
+PSNR_output:	16.020484856521833
+SSIM_output:	0.79960936
+../../data/haze/groundtruth/121_left.png
+PSNR_input:	13.674678865240903
+SSIM_input:	0.815319
+PSNR_output:	14.273905534879525
+SSIM_output:	0.8064559
+../../data/haze/groundtruth/121_right.png
+PSNR_input:	14.97297973552996
+SSIM_input:	0.73145
+PSNR_output:	13.977732532735011
+SSIM_output:	0.71006703
+../../data/haze/groundtruth/122_left.png
+PSNR_input:	16.046804847448946
+SSIM_input:	0.85422903
+PSNR_output:	16.644951547201
+SSIM_output:	0.8410661
+../../data/haze/groundtruth/122_right.png
+PSNR_input:	15.271266687957485
+SSIM_input:	0.80269176
+PSNR_output:	15.446845673829284
+SSIM_output:	0.7935329
+../../data/haze/groundtruth/123_left.png
+PSNR_input:	15.246021909505087
+SSIM_input:	0.80509204
+PSNR_output:	15.685464309616599
+SSIM_output:	0.8021829
+../../data/haze/groundtruth/123_right.png
+PSNR_input:	14.675515338957016
+SSIM_input:	0.7043588
+PSNR_output:	16.0764684331586
+SSIM_output:	0.7093723
+../../data/haze/groundtruth/124_left.png
+PSNR_input:	15.960950779232784
+SSIM_input:	0.7524798
+PSNR_output:	16.102573335532437
+SSIM_output:	0.74173063
+../../data/haze/groundtruth/124_right.png
+PSNR_input:	15.16054499606816
+SSIM_input:	0.65990514
+PSNR_output:	14.389086096192017
+SSIM_output:	0.63885206
+../../data/haze/groundtruth/125_left.png
+PSNR_input:	14.857916022422701
+SSIM_input:	0.788498
+PSNR_output:	14.57294647279574
+SSIM_output:	0.7637631
+../../data/haze/groundtruth/125_right.png
+PSNR_input:	15.720848368112552
+SSIM_input:	0.81809497
+PSNR_output:	15.738788874190355
+SSIM_output:	0.80609065
+../../data/haze/groundtruth/126_left.png
+PSNR_input:	16.233648715465304
+SSIM_input:	0.81122667
+PSNR_output:	15.640903010549378
+SSIM_output:	0.7869703
+../../data/haze/groundtruth/126_right.png
+PSNR_input:	15.313783122196668
+SSIM_input:	0.7353673
+PSNR_output:	14.511287410588576
+SSIM_output:	0.71299934
+../../data/haze/groundtruth/127_left.png
+PSNR_input:	14.189010652730929
+SSIM_input:	0.7566755
+PSNR_output:	14.312695431817822
+SSIM_output:	0.740392
+../../data/haze/groundtruth/127_right.png
+PSNR_input:	11.774109635396657
+SSIM_input:	0.6840412
+PSNR_output:	13.31957816947698
+SSIM_output:	0.6891883
+../../data/haze/groundtruth/128_left.png
+PSNR_input:	15.281589332076912
+SSIM_input:	0.78256893
+PSNR_output:	15.090177885963898
+SSIM_output:	0.7603982
+../../data/haze/groundtruth/128_right.png
+PSNR_input:	13.4377407893103
+SSIM_input:	0.56775355
+PSNR_output:	13.073224162185827
+SSIM_output:	0.5450291
+../../data/haze/groundtruth/129_left.png
+PSNR_input:	13.464816384571986
+SSIM_input:	0.67598265
+PSNR_output:	12.62782802097578
+SSIM_output:	0.6489038
+../../data/haze/groundtruth/129_right.png
+PSNR_input:	13.784637328607923
+SSIM_input:	0.6596294
+PSNR_output:	12.976017127830282
+SSIM_output:	0.6352088
+../../data/haze/groundtruth/130_left.png
+PSNR_input:	16.003983629427903
+SSIM_input:	0.7622299
+PSNR_output:	15.273462903755684
+SSIM_output:	0.7440465
+../../data/haze/groundtruth/130_right.png
+PSNR_input:	13.88634452655765
+SSIM_input:	0.66959006
+PSNR_output:	13.329542459386733
+SSIM_output:	0.6505284
+../../data/haze/groundtruth/131_left.png
+PSNR_input:	14.483103741947978
+SSIM_input:	0.7346899
+PSNR_output:	13.60956786540614
+SSIM_output:	0.7066454
+../../data/haze/groundtruth/131_right.png
+PSNR_input:	14.687971079507635
+SSIM_input:	0.6956211
+PSNR_output:	14.424667259987396
+SSIM_output:	0.6727194
+../../data/haze/groundtruth/132_left.png
+PSNR_input:	13.18259995764912
+SSIM_input:	0.7621129
+PSNR_output:	13.134770253781515
+SSIM_output:	0.751209
+../../data/haze/groundtruth/132_right.png
+PSNR_input:	12.680532161609223
+SSIM_input:	0.6504803
+PSNR_output:	13.681982290618851
+SSIM_output:	0.6522289
+../../data/haze/groundtruth/133_left.png
+PSNR_input:	15.956675814696666
+SSIM_input:	0.8150274
+PSNR_output:	15.600137874297763
+SSIM_output:	0.7970755
+../../data/haze/groundtruth/133_right.png
+PSNR_input:	14.87833725869483
+SSIM_input:	0.80977225
+PSNR_output:	15.368245241455332
+SSIM_output:	0.80472374
+../../data/haze/groundtruth/134_left.png
+PSNR_input:	15.606080212484128
+SSIM_input:	0.8272199
+PSNR_output:	15.072015286921289
+SSIM_output:	0.8129676
+../../data/haze/groundtruth/134_right.png
+PSNR_input:	15.389408126062387
+SSIM_input:	0.79320496
+PSNR_output:	15.399740765397903
+SSIM_output:	0.7824493
+../../data/haze/groundtruth/135_left.png
+PSNR_input:	13.059486327522452
+SSIM_input:	0.7225488
+PSNR_output:	12.901282997972663
+SSIM_output:	0.6995263
+../../data/haze/groundtruth/135_right.png
+PSNR_input:	14.544538810530504
+SSIM_input:	0.7207354
+PSNR_output:	14.43813489223442
+SSIM_output:	0.6955421
+../../data/haze/groundtruth/136_left.png
+PSNR_input:	15.094063329684682
+SSIM_input:	0.80642146
+PSNR_output:	15.545529329823344
+SSIM_output:	0.79997826
+../../data/haze/groundtruth/136_right.png
+PSNR_input:	17.19859229238831
+SSIM_input:	0.67847246
+PSNR_output:	16.551708428077617
+SSIM_output:	0.65045446
+../../data/haze/groundtruth/137_left.png
+PSNR_input:	14.296398067704404
+SSIM_input:	0.70037985
+PSNR_output:	13.318893125221251
+SSIM_output:	0.678461
+../../data/haze/groundtruth/137_right.png
+PSNR_input:	16.58842487383014
+SSIM_input:	0.72051114
+PSNR_output:	15.804203272812456
+SSIM_output:	0.6993148
+../../data/haze/groundtruth/138_left.png
+PSNR_input:	13.385217015222235
+SSIM_input:	0.70828795
+PSNR_output:	12.70686930017619
+SSIM_output:	0.6790586
+../../data/haze/groundtruth/138_right.png
+PSNR_input:	12.929899257063662
+SSIM_input:	0.7719474
+PSNR_output:	13.055351783852522
+SSIM_output:	0.76153517
+../../data/haze/groundtruth/139_left.png
+PSNR_input:	13.50345906570541
+SSIM_input:	0.7545452
+PSNR_output:	13.352509469468421
+SSIM_output:	0.73991346
+../../data/haze/groundtruth/139_right.png
+PSNR_input:	13.885197963203984
+SSIM_input:	0.73969984
+PSNR_output:	13.990575668347029
+SSIM_output:	0.72917587
+../../data/haze/groundtruth/140_left.png
+PSNR_input:	14.90708827305161
+SSIM_input:	0.71721345
+PSNR_output:	13.536951856264935
+SSIM_output:	0.68445414
+../../data/haze/groundtruth/140_right.png
+PSNR_input:	15.333744820443126
+SSIM_input:	0.7076755
+PSNR_output:	14.740758708094432
+SSIM_output:	0.6828608
+../../data/haze/groundtruth/141_left.png
+PSNR_input:	16.153043162491873
+SSIM_input:	0.77218074
+PSNR_output:	14.809250717443698
+SSIM_output:	0.7447324
+../../data/haze/groundtruth/141_right.png
+PSNR_input:	15.235660016791591
+SSIM_input:	0.70590454
+PSNR_output:	14.082374327430662
+SSIM_output:	0.67441756
+../../data/haze/groundtruth/142_left.png
+PSNR_input:	16.36698444122127
+SSIM_input:	0.79672
+PSNR_output:	16.44394206682356
+SSIM_output:	0.7860491
+../../data/haze/groundtruth/142_right.png
+PSNR_input:	16.805270263725745
+SSIM_input:	0.6774742
+PSNR_output:	16.037729118802496
+SSIM_output:	0.6504327
+../../data/haze/groundtruth/143_left.png
+PSNR_input:	15.226155921592905
+SSIM_input:	0.7558381
+PSNR_output:	14.479911325711456
+SSIM_output:	0.7267625
+../../data/haze/groundtruth/143_right.png
+PSNR_input:	15.055146412086515
+SSIM_input:	0.6743679
+PSNR_output:	14.813591415543055
+SSIM_output:	0.65264845
+../../data/haze/groundtruth/144_left.png
+PSNR_input:	14.391791834241626
+SSIM_input:	0.7121627
+PSNR_output:	13.492957694468895
+SSIM_output:	0.68822026
+../../data/haze/groundtruth/144_right.png
+PSNR_input:	14.554408306413386
+SSIM_input:	0.64993745
+PSNR_output:	13.926652659269628
+SSIM_output:	0.6271129
+../../data/haze/groundtruth/145_left.png
+PSNR_input:	15.047333839534431
+SSIM_input:	0.7309242
+PSNR_output:	13.90360614118508
+SSIM_output:	0.70076585
+../../data/haze/groundtruth/145_right.png
+PSNR_input:	15.389972597577879
+SSIM_input:	0.7040097
+PSNR_output:	14.690395738563286
+SSIM_output:	0.6735885
+../../data/haze/groundtruth/146_left.png
+PSNR_input:	13.974565697359669
+SSIM_input:	0.6838693
+PSNR_output:	12.881207562758325
+SSIM_output:	0.6634324
+../../data/haze/groundtruth/146_right.png
+PSNR_input:	14.597177249198579
+SSIM_input:	0.59488106
+PSNR_output:	13.746236259200476
+SSIM_output:	0.5682128
+../../data/haze/groundtruth/147_left.png
+PSNR_input:	15.104810621496076
+SSIM_input:	0.7266621
+PSNR_output:	14.660771248987544
+SSIM_output:	0.69852614
+../../data/haze/groundtruth/147_right.png
+PSNR_input:	16.615268767762274
+SSIM_input:	0.705367
+PSNR_output:	15.646914700664738
+SSIM_output:	0.68146425
+../../data/haze/groundtruth/148_left.png
+PSNR_input:	17.461716489704845
+SSIM_input:	0.8271857
+PSNR_output:	16.70531194002519
+SSIM_output:	0.8009456
+../../data/haze/groundtruth/148_right.png
+PSNR_input:	14.88425757587386
+SSIM_input:	0.7585694
+PSNR_output:	14.600193950133804
+SSIM_output:	0.7398854
+../../data/haze/groundtruth/149_left.png
+PSNR_input:	19.134142914839117
+SSIM_input:	0.8912287
+PSNR_output:	17.49171608481083
+SSIM_output:	0.8658564
+../../data/haze/groundtruth/149_right.png
+PSNR_input:	14.662510000553159
+SSIM_input:	0.67715234
+PSNR_output:	16.89322695456388
+SSIM_output:	0.6779639
+../../data/haze/groundtruth/150_left.png
+PSNR_input:	15.079687706429926
+SSIM_input:	0.82832843
+PSNR_output:	14.943469439924533
+SSIM_output:	0.81753254
+../../data/haze/groundtruth/150_right.png
+PSNR_input:	11.76935821975
+SSIM_input:	0.75387484
+PSNR_output:	13.074833127064396
+SSIM_output:	0.76551634
+../../data/haze/groundtruth/151_left.png
+PSNR_input:	17.28614414512681
+SSIM_input:	0.8370097
+PSNR_output:	17.086497702299884
+SSIM_output:	0.82410663
+../../data/haze/groundtruth/151_right.png
+PSNR_input:	14.88737104867967
+SSIM_input:	0.81161124
+PSNR_output:	15.735199009035679
+SSIM_output:	0.80915135
+../../data/haze/groundtruth/152_left.png
+PSNR_input:	13.257078186583986
+SSIM_input:	0.8113618
+PSNR_output:	13.68331408105201
+SSIM_output:	0.8147802
+../../data/haze/groundtruth/152_right.png
+PSNR_input:	17.008878165381976
+SSIM_input:	0.85656375
+PSNR_output:	17.39224838177442
+SSIM_output:	0.8537803
+../../data/haze/groundtruth/153_left.png
+PSNR_input:	14.846785980404846
+SSIM_input:	0.815021
+PSNR_output:	14.343126610627927
+SSIM_output:	0.7977986
+../../data/haze/groundtruth/153_right.png
+PSNR_input:	16.088886076197618
+SSIM_input:	0.8320355
+PSNR_output:	16.32156784506869
+SSIM_output:	0.82411116
+../../data/haze/groundtruth/154_left.png
+PSNR_input:	15.050559883078204
+SSIM_input:	0.78247553
+PSNR_output:	14.833141505830067
+SSIM_output:	0.7638585
+../../data/haze/groundtruth/154_right.png
+PSNR_input:	14.882571579659087
+SSIM_input:	0.7692942
+PSNR_output:	14.703092773893246
+SSIM_output:	0.75751597
+../../data/haze/groundtruth/155_left.png
+PSNR_input:	16.284171307822813
+SSIM_input:	0.8273812
+PSNR_output:	15.943567136740853
+SSIM_output:	0.81298906
+../../data/haze/groundtruth/155_right.png
+PSNR_input:	21.096921395760887
+SSIM_input:	0.89376706
+PSNR_output:	19.705986105753052
+SSIM_output:	0.8808217
+../../data/haze/groundtruth/156_left.png
+PSNR_input:	16.055683816128884
+SSIM_input:	0.8209686
+PSNR_output:	17.322889632398635
+SSIM_output:	0.8149558
+../../data/haze/groundtruth/156_right.png
+PSNR_input:	16.824424936760003
+SSIM_input:	0.82162195
+PSNR_output:	16.371348018666005
+SSIM_output:	0.8055224
+../../data/haze/groundtruth/157_left.png
+PSNR_input:	15.316292075554239
+SSIM_input:	0.799748
+PSNR_output:	14.758785123304756
+SSIM_output:	0.779311
+../../data/haze/groundtruth/157_right.png
+PSNR_input:	15.203410293079763
+SSIM_input:	0.82604235
+PSNR_output:	15.441368683511907
+SSIM_output:	0.8185423
+../../data/haze/groundtruth/158_left.png
+PSNR_input:	15.267262289621687
+SSIM_input:	0.7960685
+PSNR_output:	15.611497955527142
+SSIM_output:	0.78469944
+../../data/haze/groundtruth/158_right.png
+PSNR_input:	16.704119871653734
+SSIM_input:	0.81317586
+PSNR_output:	16.685420962753135
+SSIM_output:	0.7982691
+../../data/haze/groundtruth/159_left.png
+PSNR_input:	16.310820316853697
+SSIM_input:	0.8047638
+PSNR_output:	15.491216724993034
+SSIM_output:	0.77663773
+../../data/haze/groundtruth/159_right.png
+PSNR_input:	14.860229374525694
+SSIM_input:	0.8356068
+PSNR_output:	15.677859756017227
+SSIM_output:	0.8297124
+../../data/haze/groundtruth/160_left.png
+PSNR_input:	16.54991052582932
+SSIM_input:	0.83179855
+PSNR_output:	16.629936376237882
+SSIM_output:	0.8119286
+../../data/haze/groundtruth/160_right.png
+PSNR_input:	15.863721537494493
+SSIM_input:	0.84463793
+PSNR_output:	16.782218133989655
+SSIM_output:	0.8380483
+../../data/haze/groundtruth/161_left.png
+PSNR_input:	15.669568864758874
+SSIM_input:	0.8096075
+PSNR_output:	15.554539144708148
+SSIM_output:	0.7880723
+../../data/haze/groundtruth/161_right.png
+PSNR_input:	11.70623446999331
+SSIM_input:	0.76674604
+PSNR_output:	12.47846913579223
+SSIM_output:	0.7626138
+../../data/haze/groundtruth/162_left.png
+PSNR_input:	17.053019636902878
+SSIM_input:	0.83186316
+PSNR_output:	16.083709787261878
+SSIM_output:	0.8058453
+../../data/haze/groundtruth/162_right.png
+PSNR_input:	17.834802714807864
+SSIM_input:	0.78287363
+PSNR_output:	17.277385040741333
+SSIM_output:	0.75340843
+../../data/haze/groundtruth/163_left.png
+PSNR_input:	13.746376949988344
+SSIM_input:	0.8048218
+PSNR_output:	14.510623442155175
+SSIM_output:	0.8064275
+../../data/haze/groundtruth/163_right.png
+PSNR_input:	15.973010646826198
+SSIM_input:	0.80079776
+PSNR_output:	15.00480309583006
+SSIM_output:	0.7827265
+../../data/haze/groundtruth/164_left.png
+PSNR_input:	18.726351037598146
+SSIM_input:	0.8798563
+PSNR_output:	19.615879784338976
+SSIM_output:	0.8720432
+../../data/haze/groundtruth/164_right.png
+PSNR_input:	17.56195293538472
+SSIM_input:	0.7860463
+PSNR_output:	16.84608421698638
+SSIM_output:	0.76781625
+../../data/haze/groundtruth/165_left.png
+PSNR_input:	17.88315684301
+SSIM_input:	0.85884124
+PSNR_output:	18.200469205788306
+SSIM_output:	0.8440356
+../../data/haze/groundtruth/165_right.png
+PSNR_input:	16.267070274270502
+SSIM_input:	0.7577154
+PSNR_output:	15.487910605257596
+SSIM_output:	0.729539
+../../data/haze/groundtruth/166_left.png
+PSNR_input:	17.058061167467468
+SSIM_input:	0.8400499
+PSNR_output:	16.84481549508218
+SSIM_output:	0.82002753
+../../data/haze/groundtruth/166_right.png
+PSNR_input:	16.000024404327284
+SSIM_input:	0.7669325
+PSNR_output:	14.985481872239214
+SSIM_output:	0.74688464
+../../data/haze/groundtruth/167_left.png
+PSNR_input:	19.580495300525588
+SSIM_input:	0.8355775
+PSNR_output:	18.505569334733295
+SSIM_output:	0.810725
+../../data/haze/groundtruth/167_right.png
+PSNR_input:	14.164035979948604
+SSIM_input:	0.6971013
+PSNR_output:	13.112190921372203
+SSIM_output:	0.6731601
+../../data/haze/groundtruth/168_left.png
+PSNR_input:	17.967274274927536
+SSIM_input:	0.8484643
+PSNR_output:	17.638130222197915
+SSIM_output:	0.83324915
+../../data/haze/groundtruth/168_right.png
+PSNR_input:	16.220850057395836
+SSIM_input:	0.85432166
+PSNR_output:	17.993178002018112
+SSIM_output:	0.8560664
+../../data/haze/groundtruth/169_left.png
+PSNR_input:	14.625426208637593
+SSIM_input:	0.7648409
+PSNR_output:	14.476883907543435
+SSIM_output:	0.7461355
+../../data/haze/groundtruth/169_right.png
+PSNR_input:	15.717638200197312
+SSIM_input:	0.7950031
+PSNR_output:	15.956785575521744
+SSIM_output:	0.78613067
+../../data/haze/groundtruth/170_left.png
+PSNR_input:	13.91067862134639
+SSIM_input:	0.79627323
+PSNR_output:	13.953437490039175
+SSIM_output:	0.7821376
+../../data/haze/groundtruth/170_right.png
+PSNR_input:	14.27151880528564
+SSIM_input:	0.73759556
+PSNR_output:	15.965133432607102
+SSIM_output:	0.7448335
+../../data/haze/groundtruth/171_left.png
+PSNR_input:	16.88821279801107
+SSIM_input:	0.8656127
+PSNR_output:	18.67064956994271
+SSIM_output:	0.8591741
+../../data/haze/groundtruth/171_right.png
+PSNR_input:	12.504484757373987
+SSIM_input:	0.6436805
+PSNR_output:	11.996431013364875
+SSIM_output:	0.62342423
+../../data/haze/groundtruth/172_left.png
+PSNR_input:	24.73723483540271
+SSIM_input:	0.9388523
+PSNR_output:	20.78652937086209
+SSIM_output:	0.9282081
+../../data/haze/groundtruth/172_right.png
+PSNR_input:	22.030569907030213
+SSIM_input:	0.9006006
+PSNR_output:	20.883440197060704
+SSIM_output:	0.8934696
+../../data/haze/groundtruth/173_left.png
+PSNR_input:	17.400094753402612
+SSIM_input:	0.8467455
+PSNR_output:	17.11173123891356
+SSIM_output:	0.8289893
+../../data/haze/groundtruth/173_right.png
+PSNR_input:	16.976796563835965
+SSIM_input:	0.7538708
+PSNR_output:	15.841869090573786
+SSIM_output:	0.7287967
+../../data/haze/groundtruth/174_left.png
+PSNR_input:	16.57758452067583
+SSIM_input:	0.8437105
+PSNR_output:	16.163457146370202
+SSIM_output:	0.8296978
+../../data/haze/groundtruth/174_right.png
+PSNR_input:	15.357372851536864
+SSIM_input:	0.80747104
+PSNR_output:	15.867121916485559
+SSIM_output:	0.80583876
+../../data/haze/groundtruth/175_left.png
+PSNR_input:	14.844526731244736
+SSIM_input:	0.7701927
+PSNR_output:	14.949296071541857
+SSIM_output:	0.74148893
+../../data/haze/groundtruth/175_right.png
+PSNR_input:	15.406546083381992
+SSIM_input:	0.8079234
+PSNR_output:	15.170755558219838
+SSIM_output:	0.78907514
+../../data/haze/groundtruth/176_left.png
+PSNR_input:	15.758049156592048
+SSIM_input:	0.8276074
+PSNR_output:	15.866568960061986
+SSIM_output:	0.800283
+../../data/haze/groundtruth/176_right.png
+PSNR_input:	16.287899032355536
+SSIM_input:	0.82491714
+PSNR_output:	15.368724222320505
+SSIM_output:	0.80550337
+../../data/haze/groundtruth/177_left.png
+PSNR_input:	15.70642528132099
+SSIM_input:	0.819546
+PSNR_output:	14.489128308627572
+SSIM_output:	0.79542917
+../../data/haze/groundtruth/177_right.png
+PSNR_input:	13.6684811554925
+SSIM_input:	0.8041442
+PSNR_output:	14.383675903989548
+SSIM_output:	0.80493444
+../../data/haze/groundtruth/178_left.png
+PSNR_input:	14.494216562460366
+SSIM_input:	0.80537957
+PSNR_output:	13.84397802360587
+SSIM_output:	0.78628117
+../../data/haze/groundtruth/178_right.png
+PSNR_input:	14.344841574232273
+SSIM_input:	0.7911636
+PSNR_output:	15.355372289981347
+SSIM_output:	0.79518175
+../../data/haze/groundtruth/179_left.png
+PSNR_input:	15.935199324709014
+SSIM_input:	0.8291872
+PSNR_output:	16.62297522881375
+SSIM_output:	0.8223753
+../../data/haze/groundtruth/179_right.png
+PSNR_input:	15.981187163071224
+SSIM_input:	0.82041377
+PSNR_output:	16.47619947902471
+SSIM_output:	0.8054986
+../../data/haze/groundtruth/180_left.png
+PSNR_input:	17.19831018083674
+SSIM_input:	0.83955365
+PSNR_output:	16.43146886113278
+SSIM_output:	0.82703084
+../../data/haze/groundtruth/180_right.png
+PSNR_input:	14.541623170033489
+SSIM_input:	0.7649627
+PSNR_output:	13.873170092815245
+SSIM_output:	0.7486164
+../../data/haze/groundtruth/181_left.png
+PSNR_input:	18.962448925636817
+SSIM_input:	0.85539824
+PSNR_output:	18.09764635258018
+SSIM_output:	0.8353788
+../../data/haze/groundtruth/181_right.png
+PSNR_input:	16.79214611159166
+SSIM_input:	0.8136528
+PSNR_output:	15.601091273879163
+SSIM_output:	0.7960568
+../../data/haze/groundtruth/182_left.png
+PSNR_input:	14.645203455253512
+SSIM_input:	0.7608115
+PSNR_output:	13.570986345864354
+SSIM_output:	0.7246397
+../../data/haze/groundtruth/182_right.png
+PSNR_input:	16.582905225269315
+SSIM_input:	0.7895608
+PSNR_output:	15.923795146347619
+SSIM_output:	0.7677606
+../../data/haze/groundtruth/183_left.png
+PSNR_input:	17.125328714191273
+SSIM_input:	0.81447005
+PSNR_output:	16.839879960098813
+SSIM_output:	0.79548055
+../../data/haze/groundtruth/183_right.png
+PSNR_input:	16.325846745485826
+SSIM_input:	0.78388935
+PSNR_output:	15.616167319588188
+SSIM_output:	0.76008415
+../../data/haze/groundtruth/184_left.png
+PSNR_input:	16.95938825352551
+SSIM_input:	0.8641198
+PSNR_output:	16.80088015609272
+SSIM_output:	0.85485125
+../../data/haze/groundtruth/184_right.png
+PSNR_input:	11.751847364683442
+SSIM_input:	0.786551
+PSNR_output:	12.783315489081996
+SSIM_output:	0.79484224
+../../data/haze/groundtruth/185_left.png
+PSNR_input:	15.005345816261872
+SSIM_input:	0.8081909
+PSNR_output:	15.054521581293518
+SSIM_output:	0.7897927
+../../data/haze/groundtruth/185_right.png
+PSNR_input:	13.512484293400824
+SSIM_input:	0.7268498
+PSNR_output:	13.315833712229752
+SSIM_output:	0.70981336
+../../data/haze/groundtruth/186_left.png
+PSNR_input:	16.314627663755946
+SSIM_input:	0.8575341
+PSNR_output:	15.8116220126717
+SSIM_output:	0.8369544
+../../data/haze/groundtruth/186_right.png
+PSNR_input:	15.270614116287026
+SSIM_input:	0.7951618
+PSNR_output:	15.16316386184763
+SSIM_output:	0.78500956
+../../data/haze/groundtruth/187_left.png
+PSNR_input:	14.865548118070024
+SSIM_input:	0.81785774
+PSNR_output:	14.580051424545257
+SSIM_output:	0.8063028
+../../data/haze/groundtruth/187_right.png
+PSNR_input:	16.763218901719625
+SSIM_input:	0.8681708
+PSNR_output:	16.50793982290623
+SSIM_output:	0.86110955
+../../data/haze/groundtruth/188_left.png
+PSNR_input:	15.34713577971315
+SSIM_input:	0.8410737
+PSNR_output:	15.371162717392055
+SSIM_output:	0.8262391
+../../data/haze/groundtruth/188_right.png
+PSNR_input:	13.912159465765729
+SSIM_input:	0.72114176
+PSNR_output:	13.051613783998498
+SSIM_output:	0.7000477
+../../data/haze/groundtruth/189_left.png
+PSNR_input:	18.355518848592695
+SSIM_input:	0.8834305
+PSNR_output:	18.436172833043724
+SSIM_output:	0.8723194
+../../data/haze/groundtruth/189_right.png
+PSNR_input:	15.06872024557624
+SSIM_input:	0.7899018
+PSNR_output:	14.195181520040979
+SSIM_output:	0.7716984
+../../data/haze/groundtruth/190_left.png
+PSNR_input:	18.441263836381825
+SSIM_input:	0.88191843
+PSNR_output:	17.270869987413814
+SSIM_output:	0.8708996
+../../data/haze/groundtruth/190_right.png
+PSNR_input:	16.905415681733402
+SSIM_input:	0.846782
+PSNR_output:	16.69329109254303
+SSIM_output:	0.8414224
+../../data/haze/groundtruth/191_left.png
+PSNR_input:	15.279758956432953
+SSIM_input:	0.8465864
+PSNR_output:	15.082005451261857
+SSIM_output:	0.83945847
+../../data/haze/groundtruth/191_right.png
+PSNR_input:	17.44529254611101
+SSIM_input:	0.8510542
+PSNR_output:	16.933749714648677
+SSIM_output:	0.84336233
+../../data/haze/groundtruth/192_left.png
+PSNR_input:	15.137004512621974
+SSIM_input:	0.819081
+PSNR_output:	15.24338307835328
+SSIM_output:	0.7991748
+../../data/haze/groundtruth/192_right.png
+PSNR_input:	15.881121570997042
+SSIM_input:	0.7905666
+PSNR_output:	14.534018945196138
+SSIM_output:	0.76729006
+../../data/haze/groundtruth/193_left.png
+PSNR_input:	15.722793866381078
+SSIM_input:	0.7712334
+PSNR_output:	15.541182058192325
+SSIM_output:	0.7433522
+../../data/haze/groundtruth/193_right.png
+PSNR_input:	16.725009905467413
+SSIM_input:	0.82506436
+PSNR_output:	17.365806229645578
+SSIM_output:	0.8158384
+../../data/haze/groundtruth/194_left.png
+PSNR_input:	15.78469300915913
+SSIM_input:	0.78340673
+PSNR_output:	14.849625683512201
+SSIM_output:	0.75204927
+../../data/haze/groundtruth/194_right.png
+PSNR_input:	13.515255895323042
+SSIM_input:	0.7595365
+PSNR_output:	14.49554832692326
+SSIM_output:	0.75036
+../../data/haze/groundtruth/195_left.png
+PSNR_input:	14.850255683240796
+SSIM_input:	0.7533708
+PSNR_output:	14.750930074418253
+SSIM_output:	0.7308
+../../data/haze/groundtruth/195_right.png
+PSNR_input:	14.754747922303714
+SSIM_input:	0.7838321
+PSNR_output:	16.17421545042439
+SSIM_output:	0.7747188
+../../data/haze/groundtruth/196_left.png
+PSNR_input:	13.36205325150878
+SSIM_input:	0.7795859
+PSNR_output:	14.500015245219158
+SSIM_output:	0.7746149
+../../data/haze/groundtruth/196_right.png
+PSNR_input:	15.243282635772603
+SSIM_input:	0.7536271
+PSNR_output:	14.75200981055757
+SSIM_output:	0.7335549
+../../data/haze/groundtruth/197_left.png
+PSNR_input:	12.822078622900722
+SSIM_input:	0.74059504
+PSNR_output:	12.496302472607471
+SSIM_output:	0.72615117
+../../data/haze/groundtruth/197_right.png
+PSNR_input:	14.345280667011451
+SSIM_input:	0.796494
+PSNR_output:	15.72608006329775
+SSIM_output:	0.7991066
+../../data/haze/groundtruth/198_left.png
+PSNR_input:	12.664166498893202
+SSIM_input:	0.70252633
+PSNR_output:	12.050406222240342
+SSIM_output:	0.6723098
+../../data/haze/groundtruth/198_right.png
+PSNR_input:	17.384870466113618
+SSIM_input:	0.82762337
+PSNR_output:	16.51184081180372
+SSIM_output:	0.8062763
+../../data/haze/groundtruth/199_left.png
+PSNR_input:	19.630718386878808
+SSIM_input:	0.8753031
+PSNR_output:	18.758972655726737
+SSIM_output:	0.8574676
+../../data/haze/groundtruth/199_right.png
+PSNR_input:	16.51937023426085
+SSIM_input:	0.82898706
+PSNR_output:	15.964643364024518
+SSIM_output:	0.81430906
+../../data/haze/groundtruth/200_left.png
+PSNR_input:	19.423500737428064
+SSIM_input:	0.85154796
+PSNR_output:	19.614503916383832
+SSIM_output:	0.84024185
+../../data/haze/groundtruth/200_right.png
+PSNR_input:	15.215174715104364
+SSIM_input:	0.77531296
+PSNR_output:	14.426775297545104
+SSIM_output:	0.7556126
+../../data/haze/groundtruth/201_left.png
+PSNR_input:	18.3990411955931
+SSIM_input:	0.8307872
+PSNR_output:	17.9020364854606
+SSIM_output:	0.80974895
+../../data/haze/groundtruth/201_right.png
+PSNR_input:	18.04577685529311
+SSIM_input:	0.81621116
+PSNR_output:	17.1009600398753
+SSIM_output:	0.7953891
+../../data/haze/groundtruth/202_left.png
+PSNR_input:	16.021793864678493
+SSIM_input:	0.8218188
+PSNR_output:	15.533094997975743
+SSIM_output:	0.8055429
+../../data/haze/groundtruth/202_right.png
+PSNR_input:	18.050416827525964
+SSIM_input:	0.85576886
+PSNR_output:	18.161122135717225
+SSIM_output:	0.8475544
+../../data/haze/groundtruth/203_left.png
+PSNR_input:	18.631239375416715
+SSIM_input:	0.8822239
+PSNR_output:	16.525941379779358
+SSIM_output:	0.8590948
+../../data/haze/groundtruth/203_right.png
+PSNR_input:	18.90259294651556
+SSIM_input:	0.86540985
+PSNR_output:	18.270131608913104
+SSIM_output:	0.85421914
+../../data/haze/groundtruth/204_left.png
+PSNR_input:	17.907217227452506
+SSIM_input:	0.85184497
+PSNR_output:	17.63160391827292
+SSIM_output:	0.8322757
+../../data/haze/groundtruth/204_right.png
+PSNR_input:	15.501133178888796
+SSIM_input:	0.74845
+PSNR_output:	15.337771203445465
+SSIM_output:	0.7265753
+../../data/haze/groundtruth/205_left.png
+PSNR_input:	15.860287951831069
+SSIM_input:	0.8360297
+PSNR_output:	15.942366519022741
+SSIM_output:	0.8301495
+../../data/haze/groundtruth/205_right.png
+PSNR_input:	15.220390581221396
+SSIM_input:	0.8458636
+PSNR_output:	16.84513943642434
+SSIM_output:	0.8536485
+../../data/haze/groundtruth/206_left.png
+PSNR_input:	14.555399447165641
+SSIM_input:	0.8353446
+PSNR_output:	14.321738542894174
+SSIM_output:	0.82494664
+../../data/haze/groundtruth/206_right.png
+PSNR_input:	15.375868874669312
+SSIM_input:	0.78930706
+PSNR_output:	16.38303149374486
+SSIM_output:	0.7907174
+../../data/haze/groundtruth/207_left.png
+PSNR_input:	16.228193731372482
+SSIM_input:	0.82954866
+PSNR_output:	15.683179711922545
+SSIM_output:	0.81029683
+../../data/haze/groundtruth/207_right.png
+PSNR_input:	16.41363354720187
+SSIM_input:	0.83251876
+PSNR_output:	17.12599004791881
+SSIM_output:	0.82618743
+../../data/haze/groundtruth/208_left.png
+PSNR_input:	16.07745414789729
+SSIM_input:	0.842446
+PSNR_output:	14.874493377577851
+SSIM_output:	0.82071775
+../../data/haze/groundtruth/208_right.png
+PSNR_input:	18.0216487199846
+SSIM_input:	0.8557834
+PSNR_output:	17.88909986964593
+SSIM_output:	0.8463144
+../../data/haze/groundtruth/209_left.png
+PSNR_input:	16.92911233039309
+SSIM_input:	0.8265601
+PSNR_output:	16.105999991256546
+SSIM_output:	0.80643815
+../../data/haze/groundtruth/209_right.png
+PSNR_input:	15.702408233170766
+SSIM_input:	0.754867
+PSNR_output:	14.784820497795286
+SSIM_output:	0.7345446
+../../data/haze/groundtruth/210_left.png
+PSNR_input:	20.073267649949685
+SSIM_input:	0.8844331
+PSNR_output:	18.74848671190631
+SSIM_output:	0.86395615
+../../data/haze/groundtruth/210_right.png
+PSNR_input:	16.413508359766052
+SSIM_input:	0.8371157
+PSNR_output:	17.263312852897815
+SSIM_output:	0.82713723
+../../data/haze/groundtruth/211_left.png
+PSNR_input:	16.41883448767183
+SSIM_input:	0.82691956
+PSNR_output:	16.598844078505483
+SSIM_output:	0.8114824
+../../data/haze/groundtruth/211_right.png
+PSNR_input:	15.53594388644485
+SSIM_input:	0.8087244
+PSNR_output:	16.745626368831186
+SSIM_output:	0.8077662
+../../data/haze/groundtruth/212_left.png
+PSNR_input:	16.48713190133624
+SSIM_input:	0.82002753
+PSNR_output:	16.912006079360438
+SSIM_output:	0.80661577
+../../data/haze/groundtruth/212_right.png
+PSNR_input:	16.035917947187453
+SSIM_input:	0.81881076
+PSNR_output:	16.61599289747246
+SSIM_output:	0.8105672
+../../data/haze/groundtruth/213_left.png
+PSNR_input:	16.89075165112547
+SSIM_input:	0.8355794
+PSNR_output:	16.000064850317965
+SSIM_output:	0.81286496
+../../data/haze/groundtruth/213_right.png
+PSNR_input:	20.305293165532383
+SSIM_input:	0.85466605
+PSNR_output:	19.272157674086504
+SSIM_output:	0.8374714
+../../data/haze/groundtruth/214_left.png
+PSNR_input:	15.841135313918308
+SSIM_input:	0.8491717
+PSNR_output:	15.939883639107503
+SSIM_output:	0.843056
+../../data/haze/groundtruth/214_right.png
+PSNR_input:	13.8560366656619
+SSIM_input:	0.78015274
+PSNR_output:	15.616647713309188
+SSIM_output:	0.7914405
+../../data/haze/groundtruth/215_left.png
+PSNR_input:	16.395912468419585
+SSIM_input:	0.81911016
+PSNR_output:	15.663698486027858
+SSIM_output:	0.79154223
+../../data/haze/groundtruth/215_right.png
+PSNR_input:	12.170133487908272
+SSIM_input:	0.77061635
+PSNR_output:	13.407998006172527
+SSIM_output:	0.76862955
+../../data/haze/groundtruth/216_left.png
+PSNR_input:	15.277739050195692
+SSIM_input:	0.83777684
+PSNR_output:	14.672408336068493
+SSIM_output:	0.82457095
+../../data/haze/groundtruth/216_right.png
+PSNR_input:	16.097250273529912
+SSIM_input:	0.8098209
+PSNR_output:	16.051444505471935
+SSIM_output:	0.79921436
+../../data/haze/groundtruth/217_left.png
+PSNR_input:	14.552675336573929
+SSIM_input:	0.78132653
+PSNR_output:	14.62772114530264
+SSIM_output:	0.76871943
+../../data/haze/groundtruth/217_right.png
+PSNR_input:	16.386383492822972
+SSIM_input:	0.81287414
+PSNR_output:	16.204496867267927
+SSIM_output:	0.7956707
+../../data/haze/groundtruth/218_left.png
+PSNR_input:	14.528909021473467
+SSIM_input:	0.77858895
+PSNR_output:	14.467641175763966
+SSIM_output:	0.75224876
+../../data/haze/groundtruth/218_right.png
+PSNR_input:	16.0305523816423
+SSIM_input:	0.81221104
+PSNR_output:	15.675284299038717
+SSIM_output:	0.79349643
+../../data/haze/groundtruth/219_left.png
+PSNR_input:	14.399992739700803
+SSIM_input:	0.7360882
+PSNR_output:	13.796221019457398
+SSIM_output:	0.7089417
+../../data/haze/groundtruth/219_right.png
+PSNR_input:	15.398102515118241
+SSIM_input:	0.77349156
+PSNR_output:	15.227087234278367
+SSIM_output:	0.75393724
+../../data/haze/groundtruth/220_left.png
+PSNR_input:	17.573476939133133
+SSIM_input:	0.8551085
+PSNR_output:	17.40174871906064
+SSIM_output:	0.8450599
+../../data/haze/groundtruth/220_right.png
+PSNR_input:	12.479144649894675
+SSIM_input:	0.7517498
+PSNR_output:	13.23323237304751
+SSIM_output:	0.75109774
+../../data/haze/groundtruth/221_left.png
+PSNR_input:	13.957460312549522
+SSIM_input:	0.7589493
+PSNR_output:	14.013174553923589
+SSIM_output:	0.74079233
+../../data/haze/groundtruth/221_right.png
+PSNR_input:	14.879014935057192
+SSIM_input:	0.7940038
+PSNR_output:	15.603773640017591
+SSIM_output:	0.77652985
+../../data/haze/groundtruth/222_left.png
+PSNR_input:	17.90382082560508
+SSIM_input:	0.8750658
+PSNR_output:	16.88658369963918
+SSIM_output:	0.859134
+../../data/haze/groundtruth/222_right.png
+PSNR_input:	15.025355285325848
+SSIM_input:	0.8205398
+PSNR_output:	15.463229844859654
+SSIM_output:	0.8129657
+../../data/haze/groundtruth/223_left.png
+PSNR_input:	11.12780016613529
+SSIM_input:	0.7827944
+PSNR_output:	11.463359705155243
+SSIM_output:	0.77061623
+../../data/haze/groundtruth/223_right.png
+PSNR_input:	15.403120665129716
+SSIM_input:	0.77800745
+PSNR_output:	14.629707461648033
+SSIM_output:	0.75468653
+avg_PSNR of ../../data/haze/haze/(total_nums = 448):
+PSNR_input:	16.122246224049
+SSIM_input:	0.7729784153135759
+PSNR_output:	15.884286903447085
+SSIM_output:	0.7565064000497971
