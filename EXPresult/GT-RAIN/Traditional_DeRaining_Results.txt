@@ -1,0 +1,93 @@
+Parameters:
+Gaussian Kernel: Size 5, Sigma 1
+Sharpen Kernel: Size 3, Ver 1
+100%|██████████| 300/300 [00:10<00:00, 28.59it/s]
+Folder: Gurutto_0-0
+Average PSNR in: 23.60950793884464
+Average PSNR out: 23.625450866438555
+Average SSIM in: 0.8380727716286978
+Average SSIM out: 0.8457775576909383
+100%|██████████| 300/300 [00:07<00:00, 37.84it/s]
+Folder: M1135_0-0
+Average PSNR in: 20.057576238092683
+Average PSNR out: 20.072528815632552
+Average SSIM in: 0.7491096035639445
+Average SSIM out: 0.750185337861379
+100%|██████████| 300/300 [00:02<00:00, 124.63it/s]
+Folder: Oinari_0-0
+Average PSNR in: 19.96470942644114
+Average PSNR out: 19.973803911626433
+Average SSIM in: 0.6833024768034617
+Average SSIM out: 0.700705163081487
+100%|██████████| 300/300 [00:10<00:00, 27.59it/s]
+Folder: Oinari_1-1
+Average PSNR in: 16.34053245417025
+Average PSNR out: 16.366722274809533
+Average SSIM in: 0.5764776136477788
+Average SSIM out: 0.5865458909670512
+100%|██████████| 300/300 [00:10<00:00, 27.56it/s]
+Folder: Table_Rock_0-0
+Average PSNR in: 22.5996359923275
+Average PSNR out: 22.670364739368903
+Average SSIM in: 0.879292424718539
+Average SSIM out: 0.8870407452185949
+100%|██████████| 300/300 [00:29<00:00, 10.02it/s]
+Folder: Winter_Garden_0-1
+Average PSNR in: 16.995620733007314
+Average PSNR out: 16.98001737982018
+Average SSIM in: 0.5754280887047449
+Average SSIM out: 0.583650778333346
+100%|██████████| 300/300 [00:07<00:00, 38.54it/s]
+Folder: Winter_Garden_0-4
+Average PSNR in: 16.896366024180825
+Average PSNR out: 16.90211096395605
+Average SSIM in: 0.523487984140714
+Average SSIM out: 0.5320713039239248
+
+
+
+Parameters:
+Gaussian Kernel: Size 7, Sigma 1
+Sharpen Kernel: Size 3, Ver 1
+100%|██████████| 300/300 [00:13<00:00, 22.50it/s]
+Folder: Gurutto_0-0
+Average PSNR in: 23.60950793884464
+Average PSNR out: 23.640127908559606
+Average SSIM in: 0.8380727716286978
+Average SSIM out: 0.8457206080357234
+100%|██████████| 300/300 [00:10<00:00, 29.70it/s]
+Folder: M1135_0-0
+Average PSNR in: 20.057576238092683
+Average PSNR out: 20.069679762918287
+Average SSIM in: 0.7491096035639445
+Average SSIM out: 0.7499410059054693
+100%|██████████| 300/300 [00:02<00:00, 108.30it/s]
+Folder: Oinari_0-0
+Average PSNR in: 19.96470942644114
+Average PSNR out: 19.972942553905018
+Average SSIM in: 0.6833024768034617
+Average SSIM out: 0.7015342402458191
+100%|██████████| 300/300 [00:12<00:00, 23.97it/s]
+Folder: Oinari_1-1
+Average PSNR in: 16.34053245417025
+Average PSNR out: 16.37330956652389
+Average SSIM in: 0.5764776136477788
+Average SSIM out: 0.585482872525851
+100%|██████████| 300/300 [00:12<00:00, 23.30it/s]
+Folder: Table_Rock_0-0
+Average PSNR in: 22.5996359923275
+Average PSNR out: 22.669464389750825
+Average SSIM in: 0.879292424718539
+Average SSIM out: 0.8868106327454249
+100%|██████████| 300/300 [00:35<00:00,  8.37it/s]
+Folder: Winter_Garden_0-1
+Average PSNR in: 16.995620733007314
+Average PSNR out: 16.989797627939343
+Average SSIM in: 0.5754280887047449
+Average SSIM out: 0.5832650246222814
+100%|██████████| 300/300 [00:14<00:00, 21.15it/s]
+Folder: Winter_Garden_0-4
+Average PSNR in: 16.896366024180825
+Average PSNR out: 16.911153037168578
+Average SSIM in: 0.523487984140714
+Average SSIM out: 0.5320449103911717
