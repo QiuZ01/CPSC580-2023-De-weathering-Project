@@ -1,0 +1,37 @@
+Parameters:
+Sharpen Kernel: Size 5, Ver 2
+100%|██████████| 500/500 [03:39<00:00,  2.28it/s]
+Average PSNR in: 15.936805460852966
+Average PSNR out: 10.25226783466669
+Average SSIM in: 0.8252594929933548
+Average SSIM out: 0.25324378874897957
+
+
+
+Parameters:
+Sharpen Kernel: Size 5, Ver 1
+100%|██████████| 500/500 [00:50<00:00,  9.88it/s]
+Average PSNR in: 15.936805460852966
+Average PSNR out: 12.029765574257224
+Average SSIM in: 0.8252594929933548
+Average SSIM out: 0.3889102898836136
+
+
+
+Parameters:
+Sharpen Kernel: Size 3, Ver 2
+100%|██████████| 500/500 [00:48<00:00, 10.40it/s]
+Average PSNR in: 15.936805460852966
+Average PSNR out: 13.051942973879619
+Average SSIM in: 0.8252594929933548
+Average SSIM out: 0.47683330833911897
+
+
+
+Parameters:
+Sharpen Kernel: Size 3, Ver 1
+100%|██████████| 500/500 [00:47<00:00, 10.49it/s]
+Average PSNR in: 15.936805460852966
+Average PSNR out: 14.630270428485378
+Average SSIM in: 0.8252594929933548
+Average SSIM out: 0.6381764367222786
