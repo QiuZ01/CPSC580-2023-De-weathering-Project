@@ -12,9 +12,9 @@ import os
 from model import GTRainModel
 
 params = {
-    'load_checkpoint': './checkpoints/weights_dir',  # Dir to load model weights
-    'input_path': '/path/to/input',
-    'gt_path': '/path/to/gt',
+    'load_checkpoint': './model/model_checkpoint.pth',  # Dir to load model weights
+    'input_path': '../../data/rain/GT-RAIN_test',
+    'gt_path': '',
     'save_path': './outputs/',
     'init_type': 'normal',  # Initialization type
     'norm_layer_type': 'batch',  # Normalization type
@@ -45,49 +45,49 @@ checkpoint = torch.load(params['load_checkpoint'])  # , map_location=torch.devic
 model.load_state_dict(checkpoint['state_dict'], strict=True)  # strict=True
 model.eval()
 
-# Section for running with generic test sets
-if params['gt_path']:
-    total_PSNR_input = 0
-    total_SSIM_input = 0
-    total_PSNR_output = 0
-    total_SSIM_output = 0
-    clean_img_paths = natsorted(glob(params['gt_path']))
-
-rainy_img_paths = natsorted(glob(params['input_path']))
-num_paths = len(rainy_img_paths)
-
-for i in tqdm(range(num_paths)):
-    filename = rainy_img_paths[i].split('/')[-1][:-4]
-    img = Image.open(rainy_img_paths[i])
-    img = np.array(img, dtype=np.float32)
-    img *= 1 / 255
-    height, width = img.shape[:2]
-
-    img = img[:height - height % 4, :width - width % 4, :]
-    input = torch.from_numpy(img).permute((2, 0, 1)) * 2 - 1
-    input = torch.unsqueeze(input, 0).cuda()
-    output = (model(input)[0] * 0.5 + 0.5).squeeze().permute((1, 2, 0))
-    output = output.detach().cpu().numpy()
-
-    if params['gt_path']:
-        gt_img = Image.open(clean_img_paths[i])
-        gt_img = np.array(gt_img, dtype=np.float32)
-        gt_img *= 1 / 255
-        gt_img = gt_img[:height - height % 4, :width - width % 4, :]
-        total_PSNR_input += psnr(gt_img, img)
-        total_SSIM_input += ssim(gt_img, img, multichannel=True)
-        total_PSNR_output += psnr(gt_img, output)
-        total_SSIM_output += ssim(gt_img, output, multichannel=True)
-
-    # USE THIS BLOCK TO SAVE
-    im = Image.fromarray((output * 255).astype(np.uint8))
-    im.save(f"{params['save_path']}/{filename}.png")
-
-if params['gt_path']:
-    print(f"PSNR Input: {total_PSNR_input / num_paths}")
-    print(f"SSIM Input: {total_SSIM_input / num_paths}")
-    print(f"PSNR Output: {total_PSNR_output / num_paths}")
-    print(f"SSIM Output: {total_SSIM_output / num_paths}")
+# # Section for running with generic test sets
+# if params['gt_path']:
+#     total_PSNR_input = 0
+#     total_SSIM_input = 0
+#     total_PSNR_output = 0
+#     total_SSIM_output = 0
+#     clean_img_paths = natsorted(glob(params['gt_path']))
+#
+# rainy_img_paths = natsorted(glob(params['input_path']))
+# num_paths = len(rainy_img_paths)
+#
+# for i in tqdm(range(num_paths)):
+#     filename = rainy_img_paths[i].split('/')[-1][:-4]
+#     img = Image.open(rainy_img_paths[i])
+#     img = np.array(img, dtype=np.float32)
+#     img *= 1 / 255
+#     height, width = img.shape[:2]
+#
+#     img = img[:height - height % 4, :width - width % 4, :]
+#     input = torch.from_numpy(img).permute((2, 0, 1)) * 2 - 1
+#     input = torch.unsqueeze(input, 0).cuda()
+#     output = (model(input)[0] * 0.5 + 0.5).squeeze().permute((1, 2, 0))
+#     output = output.detach().cpu().numpy()
+#
+#     if params['gt_path']:
+#         gt_img = Image.open(clean_img_paths[i])
+#         gt_img = np.array(gt_img, dtype=np.float32)
+#         gt_img *= 1 / 255
+#         gt_img = gt_img[:height - height % 4, :width - width % 4, :]
+#         total_PSNR_input += psnr(gt_img, img)
+#         total_SSIM_input += ssim(gt_img, img, multichannel=True)
+#         total_PSNR_output += psnr(gt_img, output)
+#         total_SSIM_output += ssim(gt_img, output, multichannel=True)
+#
+#     # USE THIS BLOCK TO SAVE
+#     im = Image.fromarray((output * 255).astype(np.uint8))
+#     im.save(f"{params['save_path']}/{filename}.png")
+#
+# if params['gt_path']:
+#     print(f"PSNR Input: {total_PSNR_input / num_paths}")
+#     print(f"SSIM Input: {total_SSIM_input / num_paths}")
+#     print(f"PSNR Output: {total_PSNR_output / num_paths}")
+#     print(f"SSIM Output: {total_SSIM_output / num_paths}")
 
 # Section for running on GT-RAIN test set
 total_PSNR_input = 0

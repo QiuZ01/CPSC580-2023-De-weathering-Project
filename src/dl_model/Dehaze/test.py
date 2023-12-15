@@ -10,21 +10,18 @@ from collections import OrderedDict
 
 from utils import AverageMeter, write_img, chw_to_hwc
 from datasets.loader import PairLoader
-from models import *
+from models.MixDehazeNet import *
 
-from utils import AverageMeter, write_img, chw_to_hwc
-from datasets.loader import PairLoader
-from models import *
 # from ptflops import get_model_complexity_info
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', default='MixDehazeNet-l', type=str, help='model name')
 parser.add_argument('--num_workers', default=16, type=int, help='number of workers')
-parser.add_argument('--data_dir', default='../../data/', type=str, help='path to dataset')
-parser.add_argument('--save_dir', default='./saved_models/', type=str, help='path to models saving')
-parser.add_argument('--result_dir', default='./results/', type=str, help='path to results saving')
-parser.add_argument('--dataset', default='Haze-4K/', type=str, help='dataset name')
-parser.add_argument('--exp', default='haze4k', type=str, help='experiment setting')
+parser.add_argument('--data_dir', default='../../data/haze/', type=str, help='path to dataset')
+parser.add_argument('--save_dir', default='../../data/haze/RESIDE-IN/saved_models/', type=str, help='path to models saving')
+parser.add_argument('--result_dir', default='../../data/haze/results/', type=str, help='path to results saving')
+parser.add_argument('--dataset', default='RESIDE-IN/', type=str, help='dataset name')
+parser.add_argument('--exp', default='indoor', type=str, help='experiment setting')
 args = parser.parse_args()
 
 
@@ -93,7 +90,7 @@ def test(test_loader, network, result_dir):
 if __name__ == '__main__':
 	network = eval(args.model.replace('-', '_'))()
 	network.cuda()
-	saved_model_dir = os.path.join(args.save_dir, args.exp, args.model+'.pth')
+	saved_model_dir = os.path.join(args.save_dir, args.model+'.pth')
 
 	if os.path.exists(saved_model_dir):
 		print('==> Start testing, current model name: ' + args.model)

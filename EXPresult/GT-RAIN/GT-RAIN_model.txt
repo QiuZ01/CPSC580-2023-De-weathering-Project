@@ -1,0 +1,55 @@
+100% |██████████|  300/300 [01:19<00:00, 7.06it/s]
+Scene: Gurutto_0-0
+Scene PSNR Input: 23.60950765841992
+Scene SSIM Input: 0.8380728183190028
+Scene PSNR Output: 25.50575434811268
+Scene SSIM Output: 0.8521561815341314
+100% |██████████| 300/300 [00:38<00:00, 7.30it/s]
+Scene: M1135_0-0
+Scene PSNR Input: 20.05757617949582
+Scene SSIM Input: 0.7491096985340119
+Scene PSNR Output: 24.017451437237643
+Scene SSIM Output: 0.7891694058974584
+100% |██████████| 300/300 [00:15<00:00, 25.53it/s]
+Scene: Oinari_0-0
+Scene PSNR Input: 19.964709196310626
+Scene SSIM Input: 0.6833025070031484
+Scene PSNR Output: 21.888833244974762
+Scene SSIM Output: 0.784458329876264
+100% |██████████| 300/300 [00:41<00:00, 7.00it/s]
+Scene: Oinari_1-1
+Scene PSNR Input: 16.340532017570467
+Scene SSIM Input: 0.5764776265621185
+Scene PSNR Output: 18.858074345046255
+Scene SSIM Output: 0.6167993277311326
+100% |██████████| 300/300 [00:43<00:00, 6.36it/s]
+Scene: Table_Rock_0-0
+Scene PSNR Input: 22.59963590501475
+Scene SSIM Input: 0.8792925266424815
+Scene PSNR Output: 28.437692094501127
+Scene SSIM Output: 0.9100381143887838
+100% |██████████| 300/300 [02:18<00:00, 2.16it/s]
+Scene: Winter_Garden_0-1
+Scene PSNR Input: 16.995620433847723
+Scene SSIM Input: 0.5754281296332677
+Scene PSNR Output: 19.560499289603907
+Scene SSIM Output: 0.6192726192871729
+100% |██████████| 300/300 [00:33<00:00, 10.64it/s]
+Scene: Winter_Garden_0-4
+Scene PSNR Input: 16.89636563239744
+Scene SSIM Input: 0.5234880097707113
+Scene PSNR Output: 19.44240435367706
+Scene SSIM Output: 0.541059419910113
+
+Total PSNR Input: 19.49484957472239
+Total SSIM Input: 0.6893101880663917
+Total PSNR Output: 22.530101301879064
+Total SSIM Output: 0.7304219140892937
+rain accumulation Total PSNR Input: 20.87397376027373
+rain accumulation Total SSIM Input: 0.7705682440598807
+rain accumulation Total PSNR Output: 24.781325592237845
+rain accumulation Total SSIM Output: 0.8278886167208355
+dense streak Total PSNR Input: 18.460506435558884
+dense streak Total SSIM Input: 0.6283666460712751
+dense streak Total PSNR Output: 20.841683084109977
+dense streak Total SSIM Output: 0.6573218871156375
