@@ -1,0 +1,7 @@
+RESIDE-OUT
+psnr original: 15.936805760455856
+psnr bilateral filter: 15.884471304539778
+psnr guided filter: 15.935326328455766
+ssim original: 0.8054612651071359
+ssim bilateral filter: 0.7786118642924489
+ssim guided filter: 0.8050519044643977
