@@ -17,14 +17,13 @@ transform = transforms.Compose([
     transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
 ])
 
-# 加载数据集
 full_dataset = ImageFolder(root=dataset_path, transform=transform)
 
 # 数据集分割
 total_size = len(full_dataset)
 train_size = int(0.7 * total_size)  # 训练集占70%
 test_size = int(0.15 * total_size)  # 测试集占15%
-val_size = total_size - train_size - test_size  # 验证集占剩余部分
+val_size = total_size - train_size - test_size
 
 train_dataset, val_dataset, test_dataset = random_split(full_dataset, [train_size, val_size, test_size])
 
@@ -36,19 +35,16 @@ model = shufflenet_v2_x2_0()
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model.to(device)
 
-# 训练设置
 criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
-num_epochs = 10  # 根据需要调整
-
+num_epochs = 20
 
 log_file = './training_log.txt'
 with open(log_file, 'w') as logf:
     logf.write('Training Log\n')
 
-# 训练和验证循环
+# train & val
 for epoch in range(num_epochs):
-    # 训练
     model.train()
     train_loss = 0.0
     for images, labels in tqdm(train_loader):
@@ -60,7 +56,7 @@ for epoch in range(num_epochs):
         optimizer.step()
         train_loss += loss.item()
 
-    # 验证
+    # val
     model.eval()
     val_loss = 0.0
     correct = 0
@@ -81,7 +77,6 @@ for epoch in range(num_epochs):
     with open(log_file, 'a') as logf:
         logf.write(log_msg)
 
-    # 保存模型
     if (100 * correct / total > best_acc):
         best_acc = 100 * correct / total
         torch.save(model.state_dict(), f'best.pth')
