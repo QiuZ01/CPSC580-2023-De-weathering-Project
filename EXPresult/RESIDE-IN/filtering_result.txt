@@ -1,0 +1,7 @@
+RESIDE-IN
+psnr original: 11.974825957068784
+psnr bilateral filter: 11.960147944826117
+psnr guided filter: 11.973171533116096
+ssim original: 0.693425705104212
+ssim bilateral filter: 0.6783541020804912
+ssim guided filter: 0.6895523087086518
