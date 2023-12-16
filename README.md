@@ -16,7 +16,7 @@ To generate the results for Gaussian / Sharpening filters:
 2. Please make sure that the test data of GT-Rain (GT-Rain_test), which includes seven subfolders, respectively named
    "Gurutto_0-0", "M1135_0-0", "Oinari_0-0", "Oinari_1-1", "Table_Rock_0-0", "Winter_Garden_0-1", "Winter_Garden_0-4"
    is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/src/data/GT-RAIN_test/"
-3. Then, copy the first two images in the Winter_Garden_0-4 folder, which are
+3. Then, copy the first two images in the Winter_Garden_0-4 subfolder, which are
    "Winter_Garden_0-1-Webcam-C-000.png" and "src/data/Winter_Garden_0-1-Webcam-R-000.png",
    into "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/src/data"
 4. Please run the notebook ./src/traditional_algorithm/traditional_algorithm.ipynb
