@@ -3,10 +3,10 @@ This project uses computer vision to identify and reduce weather-related impacts
 
 ## Instruction for Running the Experiments
 Before running the experiments, please first download the related datasets from:
-1. GT-RAIN: (link)
-2. A2I2-Haze: (link)
-3. RESIDE-IN: (link)
-4. RESIDE-OUT: (link)
+1. [GT-RAIN](https://drive.google.com/drive/folders/1NSRl954QPcGIgoyJa_VjQwh_gEaHWPb8)
+2. [A2I2-Haze](https://a2i2-archangel.vision/haze)
+3. [RESIDE-IN](https://drive.google.com/drive/folders/1ggEslNXkWT1GukuQZn0B-cKsBBOz5cfc)
+4. [RESIDE-OUT](https://drive.google.com/drive/folders/1rUnTeACiM0rztxV6BViDAV7l2zdC-q1L)
 
 All code for running the main experiments are located within the ./src folder. Before running the code, please upload the code and datasets to Google colab, following the below directory structure:
 
