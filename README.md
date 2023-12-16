@@ -12,9 +12,29 @@ All code for running the main experiments are located within the ./src folder. B
 
 To generate the results for Gaussian / Sharpening filters, please run ./src/traditional_algorithm/traditional_algorithm.ipynb
 
-To generate the results for ...
+To test the results for GT-rain:
+```
+please run ./src/dl_model/GT-RAIN/testHaze.ipynb. 
+And make sure that the 'load_checkpoint' and data path is correct.
+Put the model weight in 'load_checkpoint'
+Put the data to be tested in 'input_path', and the ground truth in 'gt_path'
+```
 
-To generate the results for ...
+To test the results for MixDehazeNet:
+```
+please run ./src/dl_model/Dehaze/testRESIDE.ipynb. 
+And make sure that the 'save_dir' and 'data_dir' path is correct.
+Put the model weight in 'save_dir' + 'dataset';
+Put the data in 'data_dir' + 'dataset', and the test subfiles are 'test/GT' and 'test/hazy'.
+(the data to be tested in 'test/GT', and the ground truth in 'gt_path')
+```
+
+To test the results for Classifier:
+```
+please run ./src/dl_model/classifier/predict.py.
+And make sure that the 'test_image_path' is correct.
+Put the model weight './best.pth' in the same level directory.
+```
 
 Additionally, the code for generating the plots is located in ./EXPresult/classify/Plotting/classifier_plot.ipynb, which can be run in Google Colab regardless of directory structure. Other results can also be found within the ./EXPresult folder.
 
