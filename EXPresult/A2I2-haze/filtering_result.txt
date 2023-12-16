@@ -1,7 +1,8 @@
-UAV
+
+A2I2
 psnr original: 15.733396137187395
-psnr bilateral filter: 15.737125511209305
-psnr guided filter: 15.736405991364027
+psnr bilateral filter: 15.745613979948526
+psnr guided filter: 15.736405991364029
 ssim original: 0.65036853045525
-ssim bilateral filter: 0.6536959337456268
+ssim bilateral filter: 0.6556542425911674
 ssim guided filter: 0.6528101679966223
