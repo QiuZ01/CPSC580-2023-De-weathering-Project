@@ -12,7 +12,7 @@ All code for running the main experiments are located within the ./src folder. B
 
 To generate the results for Gaussian / Sharpening filters:
 ```
-1. Go to Google Colab
+1. Go to Google Colab, and the working directory is "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/"
 2. Please make sure that the test data of GT-Rain (GT-Rain_test), which includes seven subfolders, respectively named
    "Gurutto_0-0", "M1135_0-0", "Oinari_0-0", "Oinari_1-1", "Table_Rock_0-0", "Winter_Garden_0-1", "Winter_Garden_0-4"
    is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/src/data/GT-RAIN_test/"
