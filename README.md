@@ -22,8 +22,6 @@ To generate the results for Gaussian / Sharpening filters:
 4. Please run the notebook ./src/traditional_algorithm/traditional_algorithm.ipynb
 ```
 
-
-
 To test the results for GT-rain:
 ```
 please run the notebook ./src/dl_model/GT-RAIN/testHaze.ipynb. 
@@ -50,6 +48,8 @@ Put the model weight './best.pth' in the same level directory.
 
 Additionally, the code for generating the plots is located in ./EXPresult/classify/Plotting/classifier_plot.ipynb, which can be run in Google Colab regardless of directory structure.
 Other results can also be found within the ./EXPresult folder.
+
+If you encounter any problems when running the code, please do not hesitate to contact us. Thank you!
 
 ## (Below was the Project Proposal)
 ## 1  Project Title
