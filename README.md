@@ -33,7 +33,13 @@ To generate the results for Bilateral / Guided filters:
    "Gurutto_0-0", "M1135_0-0", "Oinari_0-0", "Oinari_1-1", "Table_Rock_0-0", "Winter_Garden_0-1", "Winter_Garden_0-4"
    is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/data/GT-RAIN_test/"
    (NOTE: this path is slightly different from above. It's ./data instead of ./src/data)
-4. Please run the notebook ./src/traditional_algorithm/filtering.ipynb
+3. The test data of A2I2 is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/
+   Final/data/UAV/", which includes two subfolders, respectively named "groundtruth-rec" and "haze-rec"
+4. The test data of RESIDE-IN is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/
+   Final/data/RESIDE-IN/"
+5. The test data of RESIDE-OUT is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/
+   Final/data/RESIDE-OUT/"
+6. Please run the notebook ./src/traditional_algorithm/filtering.ipynb
 ```
 
 
