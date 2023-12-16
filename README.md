@@ -1,6 +1,19 @@
 # CPSC580-2023-De-weathering-Project
 This project uses computer vision to identify and reduce weather-related impacts in images, focusing on rain and haze, enhancing image clarity and aiding in self-driving car safety.
 
+## Instruction of Running the Experiments
+Before running the experiments, please first download the related datasets from:
+1. GT-RAIN: (link)
+2. A2I2-Haze: (link)
+3. RESIDE-IN: (link)
+4. RESIDE-OUT: (link)
+
+All code for running the main experiments are located within the ./src folder. Before running the code, please upload the code and datasets to Google colab, following the below directory structure:
+``
+
+Additionally, the code for generating the plots is located in ./EXPresult/classify/Plotting/classifier_plot.ipynb, which can be run in Google Colab regardless of directory structure. Other results can also be found within ./EXPresult
+
+## (Below was the Project Proposal)
 ## 1  Project Title
 
 **Multi-Weather Classification and Effect Removal on Images**
