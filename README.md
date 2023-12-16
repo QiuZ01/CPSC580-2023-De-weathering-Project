@@ -22,6 +22,17 @@ To generate the results for Gaussian / Sharpening filters:
 4. Please run the notebook ./src/traditional_algorithm/traditional_algorithm.ipynb
 ```
 
+To generate the results for Bilateral / Guided filters:
+```
+1. Go to Google Colab, and the working directory is "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/"
+2. Please make sure that the test data of GT-Rain (GT-Rain_test), which includes seven subfolders, respectively named
+   "Gurutto_0-0", "M1135_0-0", "Oinari_0-0", "Oinari_1-1", "Table_Rock_0-0", "Winter_Garden_0-1", "Winter_Garden_0-4"
+   is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/data/GT-RAIN_test/"
+   (NOTE: this path is slightly different from above. It's ./data instead of ./src/data)
+4. Please run the notebook ./src/traditional_algorithm/filtering.ipynb
+```
+
+
 To test the results for GT-rain:
 ```
 please run the notebook ./src/dl_model/GT-RAIN/testHaze.ipynb. 
