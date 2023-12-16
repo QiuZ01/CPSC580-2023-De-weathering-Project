@@ -10,6 +10,12 @@ Before running the experiments, please first download the related datasets from:
 
 All code for running the main experiments are located within the ./src folder. Before running the code, please upload the code and datasets to Google colab, following the below directory structure:
 
+To generate the results for Gaussian / Sharpening filters, please run ./src/traditional_algorithm/traditional_algorithm.ipynb
+
+To generate the results for ...
+
+To generate the results for ...
+
 Additionally, the code for generating the plots is located in ./EXPresult/classify/Plotting/classifier_plot.ipynb, which can be run in Google Colab regardless of directory structure. Other results can also be found within the ./EXPresult folder.
 
 ## (Below was the Project Proposal)
