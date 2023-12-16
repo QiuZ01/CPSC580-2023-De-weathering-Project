@@ -10,7 +10,7 @@ Before running the experiments, please first download the related datasets from:
 
 All code for running the main experiments are located within the ./src folder. Before running the code, please upload the code and datasets to Google colab, following the below directory structure:
 
-To generate the results for Gaussian / Sharpening filters:
+To generate the results for Gaussian / Sharpening filters (only need GT-RAIN and RESIDE-OUT datasets):
 ```
 1. Go to Google Colab, and the working directory is "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/"
 2. Please make sure that the test data of GT-Rain (GT-Rain_test), which includes seven subfolders, respectively named
