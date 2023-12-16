@@ -10,11 +10,23 @@ Before running the experiments, please first download the related datasets from:
 
 All code for running the main experiments are located within the ./src folder. Before running the code, please upload the code and datasets to Google colab, following the below directory structure:
 
-To generate the results for Gaussian / Sharpening filters, please run ./src/traditional_algorithm/traditional_algorithm.ipynb
+To generate the results for Gaussian / Sharpening filters:
+```
+1. Go to Google Colab
+2. Please make sure that the test data of GT-Rain (GT-Rain_Test), which includes seven subfolders, named
+   "Gurutto_0-0", "M1135_0-0", "Oinari_0-0", "Oinari_1-1", "Table_Rock_0-0", "Winter_Garden_0-1", "Winter_Garden_0-4", respectively,
+   is located at the path "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/src/data/GT-RAIN_test/"
+3. Then, copy the first two images in the Winter_Garden_0-4 folder, which are
+   "Winter_Garden_0-1-Webcam-C-000.png" and "src/data/Winter_Garden_0-1-Webcam-R-000.png",
+   into "/content/drive/MyDrive/Colab Notebooks/CPSC 480-580: Computer Vision/Final/src/data"
+4. Please run the notebook ./src/traditional_algorithm/traditional_algorithm.ipynb
+```
+
+
 
 To test the results for GT-rain:
 ```
-please run ./src/dl_model/GT-RAIN/testHaze.ipynb. 
+please run the notebook ./src/dl_model/GT-RAIN/testHaze.ipynb. 
 And make sure that the 'load_checkpoint' and data path is correct.
 Put the model weight in 'load_checkpoint'
 Put the data to be tested in 'input_path', and the ground truth in 'gt_path'
@@ -22,7 +34,7 @@ Put the data to be tested in 'input_path', and the ground truth in 'gt_path'
 
 To test the results for MixDehazeNet:
 ```
-please run ./src/dl_model/Dehaze/testRESIDE.ipynb. 
+please run the notebook ./src/dl_model/Dehaze/testRESIDE.ipynb. 
 And make sure that the 'save_dir' and 'data_dir' path is correct.
 Put the model weight in 'save_dir' + 'dataset';
 Put the data in 'data_dir' + 'dataset', and the test subfiles are 'test/GT' and 'test/hazy'.
@@ -31,12 +43,13 @@ Put the data in 'data_dir' + 'dataset', and the test subfiles are 'test/GT' and 
 
 To test the results for Classifier:
 ```
-please run ./src/dl_model/classifier/predict.py.
+please run the notebook ./src/dl_model/classifier/predict.py.
 And make sure that the 'test_image_path' is correct.
 Put the model weight './best.pth' in the same level directory.
 ```
 
-Additionally, the code for generating the plots is located in ./EXPresult/classify/Plotting/classifier_plot.ipynb, which can be run in Google Colab regardless of directory structure. Other results can also be found within the ./EXPresult folder.
+Additionally, the code for generating the plots is located in ./EXPresult/classify/Plotting/classifier_plot.ipynb, which can be run in Google Colab regardless of directory structure.
+Other results can also be found within the ./EXPresult folder.
 
 ## (Below was the Project Proposal)
 ## 1  Project Title
